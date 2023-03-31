@@ -1,21 +1,33 @@
 ---
 title: "Spatial Simulation"
 ---
-## Exploring Pattern and Process
+## Exploring Pattern & Process
 ![](images/WEBCOVER.jpg)
 
 ### Overview
-Across broad areas of the environmental and social sciences, simulation models are an important way to study systems inaccessible to scientific experimental and observational methods, and also an essential complement of those more conventional approaches.  The contemporary research literature is teeming with abstract simulation models whose presentation is mathematically demanding and requires a high level of knowledge of quantitative and computational methods and approaches.  Furthermore, simulation models designed to represent specific systems and phenomena are often complicated, and, as a result, difficult to reconstruct from their descriptions in the literature.  _Spatial Simulation: Exploring Pattern and Process_ aims to provide a practical and accessible account of dynamic spatial modelling, while also equipping readers with a sound conceptual foundation in the subject, and a useful introduction to the wide-ranging literature.
+Across the sciences, simulation models are an important way to study systems inaccessible to experimental and observational methods, and also an essential complement to those approaches. 
+The research literature is teeming with abstract simulation models whose presentation is mathematically demanding and requires deep knowledge of quantitative and computational methods. 
+Furthermore, simulation models designed to represent specific systems and phenomena are often complicated, and, as a result, difficult to reconstruct from their descriptions in the literature. 
+_Spatial Simulation: Exploring Pattern & Process_ provides a practical and accessible account of dynamic spatial modelling, equipping readers with a sound conceptual foundation in the subject, and an introduction to the wide-ranging literature.
 
 ### Organisation
-The book is organised around the idea that a small number of spatial processes underlie the wide variety of dynamic spatial models. Its central focus on three ‘building-blocks’ of dynamic spatial models – forces of [attraction and segregation](chapter-3/), [individual mobile entities](chapter-4/), and [processes of spread](chapter-5/) – guides the reader to an understanding of the basis of many of the complicated models found in the research literature. The three building-block models are presented in their simplest form and are progressively elaborated and related to real world process that can be represented using them.  Introductory chapters cover [essential background topics](chapter-1/), particularly the [relationships between pattern, process and spatiotemporal scale](chapter-2/).  Additional chapters consider [how time and space can be represented in more complicated models](chapter-6/), and [methods for the analysis and evaluation of models](chapter-7/). Finally, the three building-block models are woven together in [a more elaborate example](chapter-8/) to show how a complicated model can be assembled from relatively simple components.
+The book is organised around the idea that a small number of spatial processes underlie the wide variety of dynamic spatial models. 
+Its central focus on three ‘building-blocks’ of dynamic spatial models &mdash; forces of [attraction and segregation](chapter-3/), [individual mobile entities](chapter-4/), and [processes of spread](chapter-5/) &mdash; guides the reader to an understanding of the basis of many of the complicated models in the research literature. 
+The three building-block models are presented in their simplest form and are progressively elaborated and related to real world process that can be represented using them. 
+Introductory chapters cover [essential background topics](chapter-1/), particularly the [relationships between pattern, process and spatiotemporal scale](chapter-2/). 
+Additional chapters consider [how time and space can be represented in more complicated models](chapter-6/), and [methods for the analysis and evaluation of models](chapter-7/). 
+Finally, the three building-block models are woven together in [a more elaborate example](chapter-8/) to show how a complicated model can be assembled from relatively simple components.
 
 ## The model 'zoo'
-To aid understanding, more than 50 specific models described in the book are available on this site for exploration in the freely available [NetLogo platform](http://patternandprocess.org/related-software-links/netlogo-information-and-download/). You can access the models with brief accompanying descriptions from the **Model 'zoo'** drop-down menu, organized by chapters.
+To aid understanding, more than 50 specific models described in the book are available on this site for exploration in the freely available [NetLogo platform](http://patternandprocess.org/related-software-links/netlogo-information-and-download/). 
+You can access the models with brief accompanying descriptions from the **Model 'zoo'** drop-down menu, organized by chapters.
 
-More recently updated versions of the models are available on [this github repository](https://github.com/DOSull/model-zoo), which is kept current with recent releases of NetLogo. You can get all the models in a [this zipped archive](https://github.com/DOSull/model-zoo/archive/refs/tags/v0.6.2.zip).
+More recently updated versions of the models are available on [this github repository](https://github.com/DOSull/model-zoo), which is kept current with recent releases of NetLogo. 
+You can get all the models in a [this zipped archive](https://github.com/DOSull/model-zoo/archive/refs/tags/v0.6.2.zip).
 
 ## The aim of the book
-This book encourages readers to develop intuition for the abstract types of model that are likely to be appropriate for application in any specific context. _Spatial Simulation: Exploring Pattern and Process_ will be of interest to undergraduate and graduate students taking courses in environmental, social, ecological and geographical disciplines. Researchers and professionals who require a non-specialist introduction will also find this book an invaluable guide to dynamic spatial simulation.
+This book encourages readers to develop intuition for the abstract types of model that are likely to be appropriate for application in any specific context. 
+_Spatial Simulation: Exploring Pattern & Process_ will be of interest to undergraduate and graduate students taking courses in environmental, social, ecological and geographical disciplines. 
+Researchers and professionals who require a non-specialist introduction will also find this book an invaluable guide to dynamic spatial simulation.
 
 The book is published by [Wiley](http://au.wiley.com/WileyCDA/WileyTitle/productCd-1119970792.html) and is available now!

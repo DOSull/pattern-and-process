@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Pattern and Process"
+  title: "Pattern & Process"
   navbar:
     left:
       - text: Home
