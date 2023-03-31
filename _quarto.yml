@@ -8,7 +8,7 @@ website:
     left:
       - text: Home
         file: index.qmd
-      - text: Chapters
+      - text: "Model 'zoo'"
         menu: 
           - sidebar:ch1
           - sidebar:ch2
