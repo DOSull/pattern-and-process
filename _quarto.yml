@@ -24,6 +24,8 @@ website:
   sidebar:
     - id: "ch1"
       title: "Chapter 1"
+      search: true
+      style: floating
       contents: 
         - chapter-1/index.qmd
         - chapter-1/1.1.qmd
