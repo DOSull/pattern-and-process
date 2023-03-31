@@ -1,0 +1,6 @@
+---
+title: "3.11 Schelling model implemented as an IPS"
+format: html
+---
+
+[![](3.11-schelling-as-IPS.png)](3.11-schelling-as-IPS.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how the Schelling model can be implemented as an interacting particle system _exclusion process_.

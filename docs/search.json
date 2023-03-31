@@ -28,6 +28,13 @@
     "text": "This is an implementation of the model described in\nVicsek T and Szalay AS 1987 Fractal distribution of galaxies modeled by a cellular-automaton-type stochastic process. Phys. Rev. Lett. 58, 2818-21."
   },
   {
+    "objectID": "chapter-3/3.10.html",
+    "href": "chapter-3/3.10.html",
+    "title": "3.10 The Schelling model of segregation",
+    "section": "",
+    "text": "This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically. The original papers on this model are:\nSchelling TC 1969 Models of segregation. American Economic Review 59 488–493. Schelling TC 1971 Dynamic models of segregation. Journal of Mathematical Sociology 1 143–186. Schelling TC 1978 Micromotives and Macrobehavior. Norton, New York."
+  },
+  {
     "objectID": "chapter-3/3.4.html",
     "href": "chapter-3/3.4.html",
     "title": "3.4 Basic two dimensional contact process",
@@ -56,6 +63,48 @@
     "text": "This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states."
   },
   {
+    "objectID": "chapter-3/3.15.html",
+    "href": "chapter-3/3.15.html",
+    "title": "3.15 Nowak and May’s spatial prisoners’ dilemma",
+    "section": "",
+    "text": "This model is an implementation of the one described in\nNowak MA and May RM 1992 Evolutionary games and spatial chaos. Nature 359 826-29."
+  },
+  {
+    "objectID": "chapter-3/3.16.html",
+    "href": "chapter-3/3.16.html",
+    "title": "3.16 Evolutionary spatial prisoners’ dilemma",
+    "section": "",
+    "text": "This model demonstrates how different strategies in a two player game compete with one another in space, when players ‘evolve’ by changing their strategy to match successfully strategies either globally (the non-spatial case) or locally (the spatial case)."
+  },
+  {
+    "objectID": "chapter-3/3.9.html",
+    "href": "chapter-3/3.9.html",
+    "title": "3.9 Voter model with dispersal and mutation",
+    "section": "",
+    "text": "This model implements a simple voter model with two non-local processes. One admits succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice."
+  },
+  {
+    "objectID": "chapter-3/3.11.html",
+    "href": "chapter-3/3.11.html",
+    "title": "3.11 Schelling model implemented as an IPS",
+    "section": "",
+    "text": "This model demonstrates how the Schelling model can be implemented as an interacting particle system exclusion process."
+  },
+  {
+    "objectID": "chapter-3/3.14.html",
+    "href": "chapter-3/3.14.html",
+    "title": "3.14 Spots and stripes: a discrete reaction-diffusion model",
+    "section": "",
+    "text": "This model implements the cellular automaton model described by\nYoung DA 1984 A local activator-inhibitor model of vertebrate skin patterns. Mathematical Biosciences 72 51–58.\nwhich is itself a cellular automaton discretisation of Turing’s reaction-diffusion model of morphogenetics.\nTuring AM 1952 The chemical basis of morphogenesis. Philosophical Transactions of the Royal Society of London. Series B 237 37–72\nThe reaction-diffusion model is a fundamental process model across many scientific domains."
+  },
+  {
+    "objectID": "chapter-3/3.8.html",
+    "href": "chapter-3/3.8.html",
+    "title": "3.8 Simple voter model",
+    "section": "",
+    "text": "This model is an implementation of a simple voter model."
+  },
+  {
     "objectID": "chapter-3/3.6.html",
     "href": "chapter-3/3.6.html",
     "title": "3.6 Grass – bush – trees IPS succession model",
@@ -70,11 +119,25 @@
     "text": "A model illustrating the smoothing or diffusion effect produced by iterative local averaging."
   },
   {
+    "objectID": "chapter-3/3.12.html",
+    "href": "chapter-3/3.12.html",
+    "title": "3.12 Iterative binary subdivision",
+    "section": "",
+    "text": "This model implements an interative subdivision process to construct a binary space partition which might be used to initialise neutral landscapes."
+  },
+  {
+    "objectID": "chapter-3/3.13.html",
+    "href": "chapter-3/3.13.html",
+    "title": "3.13 Centroidal Voronoi tessellation",
+    "section": "",
+    "text": "The Voronoi tessellation is an ‘all at once’ subdivision of a landscape based on proximity to a set of generating points. Many possible iterative processes based on the Voronoi tessellation are possible. This model demonstrates one example, the centroidal Voronoi tessellation where successive generations of generating points are placed at the centroids of the previous generation of Voronoi tiles. See\nDu Q, Faber V and Gunzburger M 1999 Centroidal Voronoi tessellations: applications and algorithms. SIAM Review 41 637–76."
+  },
+  {
     "objectID": "chapter-3.html",
     "href": "chapter-3.html",
     "title": "Chapter 3",
     "section": "",
-    "text": "Aggregation and segregation\nIn this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Aggregation and segregation\nIn this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.10 The Schelling model of segregation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.11 Schelling model implemented as an IPS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.12 Iterative binary subdivision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.13 Centroidal Voronoi tessellation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.14 Spots and stripes: a discrete reaction-diffusion model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.15 Nowak and May’s spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.16 Evolutionary spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.8 Simple voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.9 Voter model with dispersal and mutation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-2/2.4.html",

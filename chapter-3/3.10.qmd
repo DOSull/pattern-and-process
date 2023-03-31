@@ -1,0 +1,10 @@
+---
+title: "3.10 The Schelling model of segregation"
+format: html
+---
+
+[![](3.10-schelling.png)](3.10-schelling.png){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically.  The original papers on this model are:
+
+Schelling TC 1969 Models of segregation. _American Economic Review_ **59** 488–493.
+Schelling TC 1971 Dynamic models of segregation. _Journal of Mathematical Sociology_ **1** 143–186.
+Schelling TC 1978 _Micromotives and Macrobehavior_. Norton, New York.

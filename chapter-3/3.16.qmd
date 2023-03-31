@@ -1,0 +1,6 @@
+---
+title: "3.16 Evolutionary spatial prisoners’ dilemma"
+format: html
+---
+
+[![](3.16-IPD.png)](3.16-IPD.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how different strategies in a two player game compete with one another in space, when players ‘evolve’ by changing their strategy to match successfully strategies either globally (the non-spatial case) or locally (the spatial case).
