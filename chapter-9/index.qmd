@@ -1,8 +1,6 @@
 ---
-title: "Chapter 9"
+title: "In conclusion"
 listing:
-  contents: chapter-9
   type: grid 
 ---
-# In conclusion
 We close with (one more!) model and some final thoughts on the usefulness of spatial simulation models and the model-building process.

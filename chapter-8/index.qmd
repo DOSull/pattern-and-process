@@ -1,8 +1,6 @@
 ---
-title: "Chapter 8"
+title: "Weaving it all together"
 listing:
-  contents: chapter-8
   type: grid 
 ---
-# Weaving it all together
 Here we present a model that uses elements from all the ‘building-block’ models presented in Chapters 3, 4 and 5 to develop a more complicated and detailed model.

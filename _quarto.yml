@@ -6,20 +6,123 @@ website:
   title: "Pattern and Process"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - text: Models
+      - text: Home
+        file: index.qmd
+      - text: Chapters
         menu: 
-          - chapter-1.qmd
-          - chapter-2.qmd
-          - chapter-3.qmd
-          - chapter-4.qmd
-          - chapter-5.qmd
-          - chapter-6.qmd
-          - chapter-7.qmd
-          - chapter-8.qmd
-          - chapter-9.qmd
+          - sidebar:ch1
+          - sidebar:ch2
+          - sidebar:ch3
+          - sidebar:ch4
+          - sidebar:ch5
+          - sidebar:ch6
+          - sidebar:ch7
+          - sidebar:ch8
+          - sidebar:ch9
       - about.qmd
+
+  sidebar:
+    - id: "ch1"
+      title: "Chapter 1"
+      contents: 
+        - chapter-1/index.qmd
+        - chapter-1/1.1.qmd
+        - chapter-1/1.2.qmd
+        - chapter-1/1.3.qmd
+    - id: "ch2"
+      title: "Chapter 2"
+      contents:
+        - chapter-2/index.qmd
+        - chapter-2/2.1.qmd
+        - chapter-2/2.2.qmd
+        - chapter-2/2.3.qmd
+        - chapter-2/2.4.qmd
+        - chapter-2/2.5.qmd
+        - chapter-2/2.6.qmd
+        - chapter-2/2.7.qmd
+    - id: "ch3"
+      title: "Chapter 3"
+      contents: 
+        - chapter-3/index.qmd
+        - chapter-3/3.1.qmd
+        - chapter-3/3.2.qmd
+        - chapter-3/3.3.qmd
+        - chapter-3/3.4.qmd
+        - chapter-3/3.5.qmd
+        - chapter-3/3.6.qmd
+        - chapter-3/3.7.qmd
+        - chapter-3/3.8.qmd
+        - chapter-3/3.9.qmd
+        - chapter-3/3.10.qmd
+        - chapter-3/3.11.qmd
+        - chapter-3/3.12.qmd
+        - chapter-3/3.13.qmd
+        - chapter-3/3.14.qmd
+        - chapter-3/3.15.qmd
+        - chapter-3/3.16.qmd
+    - id: "ch4"
+      title: "Chapter 4"
+      contents: 
+        - chapter-4/index.qmd
+        - chapter-4/4.1.qmd
+        - chapter-4/4.2.qmd
+        - chapter-4/4.3.qmd
+        - chapter-4/4.4.qmd
+        - chapter-4/4.5.qmd
+        - chapter-4/4.6.qmd
+        - chapter-4/4.7.qmd
+    - id: "ch5"
+      title: "Chapter 5"
+      contents: 
+        - chapter-5/index.qmd
+        - chapter-5/5.1.qmd
+        - chapter-5/5.2.qmd
+        - chapter-5/5.3.qmd
+        - chapter-5/5.4.qmd
+        - chapter-5/5.5.qmd
+        - chapter-5/5.6.qmd
+        - chapter-5/5.7.qmd
+        - chapter-5/5.8.qmd
+        - chapter-5/5.9.qmd
+        - chapter-5/5.10.qmd
+        - chapter-5/5.11.qmd
+        - chapter-5/5.12.qmd
+        - chapter-5/5.13.qmd
+        - chapter-5/5.14.qmd
+        - chapter-5/5.15.qmd
+        - chapter-5/5.16.qmd
+        - chapter-5/5.17.qmd
+        - chapter-5/5.18.qmd
+        - chapter-5/5.19.qmd
+        - chapter-5/5.20.qmd
+        - chapter-5/5.21.qmd
+    - id: "ch6"
+      title: "Chapter 6"
+      contents: 
+        - chapter-6/index.qmd
+        - chapter-6/6.1.qmd
+        - chapter-6/6.2.qmd
+        - chapter-6/6.3.qmd
+        - chapter-6/6.4.qmd
+        - chapter-6/6.5.qmd
+        - chapter-6/6.6.qmd
+    - id: "ch7"
+      title: "Chapter 7"
+      contents: 
+        - chapter-7/index.qmd
+        - chapter-7/7.1.qmd
+    - id: "ch8"
+      title: "Chapter 8"
+      contents: 
+        - chapter-8/index.qmd
+        - chapter-8/8.1.qmd
+    - id: "ch9"
+      title: "Chapter 9"
+      contents: 
+        - chapter-9/index.qmd
+        - chapter-9/9.1.qmd
+
+  page-navigation: true
 
 format:
   html:

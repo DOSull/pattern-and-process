@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<link href="../chapter-4/4.6.html" rel="prev">
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -63,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -84,61 +85,115 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-models" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Models</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-chapters" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Chapters</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-models">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-chapters">    
         <li>
-    <a class="dropdown-item" href="../chapter-1.html">
+    <a class="dropdown-item" href="../chapter-1/index.html">
  <span class="dropdown-text">Chapter 1</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-2.html">
+    <a class="dropdown-item" href="../chapter-2/index.html">
  <span class="dropdown-text">Chapter 2</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-3.html">
+    <a class="dropdown-item" href="../chapter-3/index.html">
  <span class="dropdown-text">Chapter 3</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-4.html">
+    <a class="dropdown-item" href="../chapter-4/index.html">
  <span class="dropdown-text">Chapter 4</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-5.html">
+    <a class="dropdown-item" href="../chapter-5/index.html">
  <span class="dropdown-text">Chapter 5</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-6.html">
+    <a class="dropdown-item" href="../chapter-6/index.html">
  <span class="dropdown-text">Chapter 6</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-7.html">
+    <a class="dropdown-item" href="../chapter-7/index.html">
  <span class="dropdown-text">Chapter 7</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-8.html">
+    <a class="dropdown-item" href="../chapter-8/index.html">
  <span class="dropdown-text">Chapter 8</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../chapter-9.html">
+    <a class="dropdown-item" href="../chapter-9/index.html">
  <span class="dropdown-text">Chapter 9</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="../about.html">
- <span class="menu-text">About</span></a>
+ <span class="menu-text">About the authors</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">4.7 Flocking</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/index.html" class="sidebar-item-text sidebar-link">Random walks and mobile entities</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.1.html" class="sidebar-item-text sidebar-link">4.1 Random walks</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.2.html" class="sidebar-item-text sidebar-link">4.2 The correlation length effect in random walks</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.3.html" class="sidebar-item-text sidebar-link">4.3 Simon’s satisficing forager model on a lattice</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.4.html" class="sidebar-item-text sidebar-link">4.4 Area searched by a ‘Simon forager’</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.5.html" class="sidebar-item-text sidebar-link">4.5 Foraging in a heterogeneous environment</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.6.html" class="sidebar-item-text sidebar-link">4.6 The effect of environmental change on movement</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-4/4.7.html" class="sidebar-item-text sidebar-link active">4.7 Flocking</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
@@ -148,7 +203,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">4.7 Flocking</h1>
+<h1 class="title d-none d-lg-block">4.7 Flocking</h1>
 </div>
 
 
@@ -305,6 +360,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="../chapter-4/4.6.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">4.6 The effect of environmental change on movement</span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+  </div>
+</nav>
 </div> <!-- /content -->
 
 

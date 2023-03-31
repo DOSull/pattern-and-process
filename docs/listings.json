@@ -1,50 +1,16 @@
 [
   {
-    "listing": "/chapter-6.html",
+    "listing": "/chapter-7/index.html",
     "items": [
-      "/chapter-6/6.1.html",
-      "/chapter-6/6.2.html",
-      "/chapter-6/6.3.html",
-      "/chapter-6/6.4.html",
-      "/chapter-6/6.5.html",
-      "/chapter-6/6.6.html"
+      "/chapter-7/7.1.html"
     ]
   },
   {
-    "listing": "/chapter-4.html",
-    "items": [
-      "/chapter-4/4.1.html",
-      "/chapter-4/4.2.html",
-      "/chapter-4/4.3.html",
-      "/chapter-4/4.4.html",
-      "/chapter-4/4.5.html",
-      "/chapter-4/4.6.html",
-      "/chapter-4/4.7.html"
-    ]
+    "listing": "/chapter-3/index.html",
+    "items": []
   },
   {
-    "listing": "/chapter-3.html",
-    "items": [
-      "/chapter-3/3.1.html",
-      "/chapter-3/3.2.html",
-      "/chapter-3/3.3.html",
-      "/chapter-3/3.4.html",
-      "/chapter-3/3.5.html",
-      "/chapter-3/3.6.html",
-      "/chapter-3/3.7.html",
-      "/chapter-3/3.8.html",
-      "/chapter-3/3.9.html",
-      "/chapter-3/3.10.html",
-      "/chapter-3/3.11.html",
-      "/chapter-3/3.12.html",
-      "/chapter-3/3.13.html",
-      "/chapter-3/3.14.html",
-      "/chapter-3/3.15.html",
-      "/chapter-3/3.16.html"
-    ]
-  },
-  {
-    "listing": "/chapter-2.html",
+    "listing": "/chapter-2/index.html",
     "items": [
       "/chapter-2/2.1.html",
       "/chapter-2/2.2.html",
@@ -56,11 +22,42 @@
     ]
   },
   {
-    "listing": "/chapter-7.html",
-    "items": []
+    "listing": "/chapter-8/index.html",
+    "items": [
+      "/chapter-8/8.1.html"
+    ]
   },
   {
-    "listing": "/chapter-5.html",
+    "listing": "/chapter-4/index.html",
+    "items": [
+      "/chapter-4/4.1.html",
+      "/chapter-4/4.2.html",
+      "/chapter-4/4.3.html",
+      "/chapter-4/4.4.html",
+      "/chapter-4/4.5.html",
+      "/chapter-4/4.6.html",
+      "/chapter-4/4.7.html"
+    ]
+  },
+  {
+    "listing": "/chapter-9/index.html",
+    "items": [
+      "/chapter-9/9.1.html"
+    ]
+  },
+  {
+    "listing": "/chapter-6/index.html",
+    "items": [
+      "/chapter-6/6.1.html",
+      "/chapter-6/6.2.html",
+      "/chapter-6/6.3.html",
+      "/chapter-6/6.4.html",
+      "/chapter-6/6.5.html",
+      "/chapter-6/6.6.html"
+    ]
+  },
+  {
+    "listing": "/chapter-5/index.html",
     "items": [
       "/chapter-5/5.1.html",
       "/chapter-5/5.2.html",
@@ -86,15 +83,7 @@
     ]
   },
   {
-    "listing": "/chapter-9.html",
-    "items": []
-  },
-  {
-    "listing": "/chapter-8.html",
-    "items": []
-  },
-  {
-    "listing": "/chapter-1.html",
+    "listing": "/chapter-1/index.html",
     "items": [
       "/chapter-1/1.1.html",
       "/chapter-1/1.2.html",

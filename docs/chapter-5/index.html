@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pattern and Process - Chapter 5</title>
+<title>Pattern and Process - Percolation and growth</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapter-5/5.1.html" rel="next">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -93,17 +94,17 @@ ul.task-list li input[type="checkbox"] {
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Pattern and Process</span>
     </a>
   </div>
@@ -113,81 +114,199 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="../index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-models" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Models</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-chapters" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Chapters</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-models">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-chapters">    
         <li>
-    <a class="dropdown-item" href="./chapter-1.html">
+    <a class="dropdown-item" href="../chapter-1/index.html">
  <span class="dropdown-text">Chapter 1</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-2.html">
+    <a class="dropdown-item" href="../chapter-2/index.html">
  <span class="dropdown-text">Chapter 2</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-3.html">
+    <a class="dropdown-item" href="../chapter-3/index.html">
  <span class="dropdown-text">Chapter 3</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-4.html">
+    <a class="dropdown-item" href="../chapter-4/index.html">
  <span class="dropdown-text">Chapter 4</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-5.html">
+    <a class="dropdown-item" href="../chapter-5/index.html">
  <span class="dropdown-text">Chapter 5</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-6.html">
+    <a class="dropdown-item" href="../chapter-6/index.html">
  <span class="dropdown-text">Chapter 6</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-7.html">
+    <a class="dropdown-item" href="../chapter-7/index.html">
  <span class="dropdown-text">Chapter 7</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-8.html">
+    <a class="dropdown-item" href="../chapter-8/index.html">
  <span class="dropdown-text">Chapter 8</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-9.html">
+    <a class="dropdown-item" href="../chapter-9/index.html">
  <span class="dropdown-text">Chapter 9</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="../about.html">
+ <span class="menu-text">About the authors</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Percolation and growth</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/index.html" class="sidebar-item-text sidebar-link active">Percolation and growth</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.1.html" class="sidebar-item-text sidebar-link">5.1 Site percolation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.2.html" class="sidebar-item-text sidebar-link">5.2 The ant in the labyrinth</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.3.html" class="sidebar-item-text sidebar-link">5.3 Site percolation forest fire model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.4.html" class="sidebar-item-text sidebar-link">5.4 The percolation backbone</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.5.html" class="sidebar-item-text sidebar-link">5.5 Invasion percolation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.6.html" class="sidebar-item-text sidebar-link">5.6 Invasion percolation drainage basin model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.7.html" class="sidebar-item-text sidebar-link">5.7 Simple Eden growth model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.8.html" class="sidebar-item-text sidebar-link">5.8 Inverted Eden process</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.9.html" class="sidebar-item-text sidebar-link">5.9 The Eden tree</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.10.html" class="sidebar-item-text sidebar-link">5.10 Eden ‘tip’ model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.11.html" class="sidebar-item-text sidebar-link">5.11 Williams-Bjerknes Eden growth model for abnormal cells</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.12.html" class="sidebar-item-text sidebar-link">5.12 Eden growth a linear invasion front</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.13.html" class="sidebar-item-text sidebar-link">5.13 Eden epidemic process</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.14.html" class="sidebar-item-text sidebar-link">5.14 Benguigui’s Eden process based model of urban growth</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.15.html" class="sidebar-item-text sidebar-link">5.15 Eden spread on a linear front with long-distance dispersal (LDD)</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.16.html" class="sidebar-item-text sidebar-link">5.16 Diffusion limited aggregation (DLA)</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.17.html" class="sidebar-item-text sidebar-link">5.17 Neutral landscape generation by percolation processes</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.18.html" class="sidebar-item-text sidebar-link">5.18 The SIMMAP neutral landscape model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.19.html" class="sidebar-item-text sidebar-link">5.19 The ‘sand-pile’ forest fire model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.20.html" class="sidebar-item-text sidebar-link">5.20 Forest fire model with age-related flammability</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-5/5.21.html" class="sidebar-item-text sidebar-link">5.21 Stark model of gullying</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#percolation-and-growth" id="toc-percolation-and-growth" class="nav-link active" data-scroll-target="#percolation-and-growth">Percolation and growth</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Chapter 5</h1>
+<h1 class="title d-none d-lg-block">Percolation and growth</h1>
 </div>
 
 
@@ -202,21 +321,18 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="percolation-and-growth" class="level1">
-<h1>Percolation and growth</h1>
 <p>The models in this chapter provide a basis for both models of landscape pattern, and for diffusive spread through such landscapes. The underlying basis of all these models is percolation which partitions a space into either occupied or unoccupied sites either all at once, or sequentially according to some simple rule, to yield a wide variety of models of growth processes.</p>
 
 
 
-</section>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1680229367607" data-listing-reading-time-sort="0.1">
-<a href="./chapter-5/5.1.html" class="quarto-grid-link">
+<a href="../chapter-5/5.1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.1-sitePercolation.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.1-sitePercolation.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -235,10 +351,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="1" data-listing-file-modified-sort="1680229458422" data-listing-reading-time-sort="0.145">
-<a href="./chapter-5/5.2.html" class="quarto-grid-link">
+<a href="../chapter-5/5.2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.2-antLabyrinth.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.2-antLabyrinth.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -257,10 +373,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="2" data-listing-file-modified-sort="1680231611284" data-listing-reading-time-sort="0.08">
-<a href="./chapter-5/5.3.html" class="quarto-grid-link">
+<a href="../chapter-5/5.3.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.3-firePercolation.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.3-firePercolation.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -279,10 +395,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="3" data-listing-file-modified-sort="1680231690055" data-listing-reading-time-sort="0.245">
-<a href="./chapter-5/5.4.html" class="quarto-grid-link">
+<a href="../chapter-5/5.4.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.4-percolationBackBone.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.4-percolationBackBone.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -301,10 +417,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="4" data-listing-file-modified-sort="1680231754871" data-listing-reading-time-sort="0.08">
-<a href="./chapter-5/5.5.html" class="quarto-grid-link">
+<a href="../chapter-5/5.5.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.5-invasionPercolationWithTrapping.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.5-invasionPercolationWithTrapping.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -323,10 +439,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="5" data-listing-file-modified-sort="1680231841542" data-listing-reading-time-sort="0.135">
-<a href="./chapter-5/5.6.html" class="quarto-grid-link">
+<a href="../chapter-5/5.6.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.6-invasionPercolationStarkDrainageModel.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.6-invasionPercolationStarkDrainageModel.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -345,10 +461,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="6" data-listing-file-modified-sort="1680231954497" data-listing-reading-time-sort="0.2">
-<a href="./chapter-5/5.7.html" class="quarto-grid-link">
+<a href="../chapter-5/5.7.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.7-edenSimple.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.7-edenSimple.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -367,10 +483,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="7" data-listing-file-modified-sort="1680232024868" data-listing-reading-time-sort="0.185">
-<a href="./chapter-5/5.8.html" class="quarto-grid-link">
+<a href="../chapter-5/5.8.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.8-edenSimpleInverse.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.8-edenSimpleInverse.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -389,10 +505,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="8" data-listing-file-modified-sort="1680232092904" data-listing-reading-time-sort="0.16">
-<a href="./chapter-5/5.9.html" class="quarto-grid-link">
+<a href="../chapter-5/5.9.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.9-edenTree.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.9-edenTree.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -411,10 +527,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="9" data-listing-file-modified-sort="1680232163331" data-listing-reading-time-sort="0.225">
-<a href="./chapter-5/5.10.html" class="quarto-grid-link">
+<a href="../chapter-5/5.10.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.10-edenTip.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.10-edenTip.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -433,10 +549,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="10" data-listing-file-modified-sort="1680232276918" data-listing-reading-time-sort="0.155">
-<a href="./chapter-5/5.11.html" class="quarto-grid-link">
+<a href="../chapter-5/5.11.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.11-edenWilliamsBjerknes.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.11-edenWilliamsBjerknes.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -455,10 +571,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="11" data-listing-file-modified-sort="1680232354690" data-listing-reading-time-sort="0.26">
-<a href="./chapter-5/5.12.html" class="quarto-grid-link">
+<a href="../chapter-5/5.12.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.12-edenSingleOnLine.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.12-edenSingleOnLine.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -477,10 +593,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="12" data-listing-file-modified-sort="1680232430481" data-listing-reading-time-sort="0.13">
-<a href="./chapter-5/5.13.html" class="quarto-grid-link">
+<a href="../chapter-5/5.13.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.13-edenEpidemic.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.13-edenEpidemic.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -499,10 +615,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="13" data-listing-file-modified-sort="1680232594064" data-listing-reading-time-sort="0.255">
-<a href="./chapter-5/5.14.html" class="quarto-grid-link">
+<a href="../chapter-5/5.14.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.14-benguiguiP.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.14-benguiguiP.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -521,10 +637,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="14" data-listing-file-modified-sort="1680232933727" data-listing-reading-time-sort="0.23">
-<a href="./chapter-5/5.15.html" class="quarto-grid-link">
+<a href="../chapter-5/5.15.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.15-edenSingleOnLineLDD.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.15-edenSingleOnLineLDD.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -543,10 +659,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="15" data-listing-file-modified-sort="1680233040029" data-listing-reading-time-sort="0.16">
-<a href="./chapter-5/5.16.html" class="quarto-grid-link">
+<a href="../chapter-5/5.16.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.16-onlattice-dla.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.16-onlattice-dla.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -565,10 +681,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="16" data-listing-file-modified-sort="1680233144328" data-listing-reading-time-sort="0.065">
-<a href="./chapter-5/5.17.html" class="quarto-grid-link">
+<a href="../chapter-5/5.17.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.17-simpleNeutral.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.17-simpleNeutral.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -587,10 +703,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="17" data-listing-file-modified-sort="1680233256999" data-listing-reading-time-sort="0.66">
-<a href="./chapter-5/5.18.html" class="quarto-grid-link">
+<a href="../chapter-5/5.18.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img src="./chapter-5/5.18-simmap.png" class="thumbnail-image card-img" style="height: 150px;">
+<img src="../chapter-5/5.18-simmap.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -609,10 +725,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="18" data-listing-file-modified-sort="1680233346870" data-listing-reading-time-sort="0.27">
-<a href="./chapter-5/5.19.html" class="quarto-grid-link">
+<a href="../chapter-5/5.19.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./chapter-5/5.19-dsFFM.png" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="../chapter-5/5.19-dsFFM.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -631,10 +747,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="19" data-listing-file-modified-sort="1680233434037" data-listing-reading-time-sort="0.575">
-<a href="./chapter-5/5.20.html" class="quarto-grid-link">
+<a href="../chapter-5/5.20.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./chapter-5/5.20-FFM-ContLsp.png" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="../chapter-5/5.20-FFM-ContLsp.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -653,10 +769,10 @@ ul.task-list li input[type="checkbox"] {
 </a>
 </div>
 <div class="g-col-1" data-index="20" data-listing-file-modified-sort="1680233523680" data-listing-reading-time-sort="0.22">
-<a href="./chapter-5/5.21.html" class="quarto-grid-link">
+<a href="../chapter-5/5.21.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img data-src="./chapter-5/5.21-starkGullying.png" class="thumbnail-image card-img" style="height: 150px;">
+<img data-src="../chapter-5/5.21-starkGullying.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -815,6 +931,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../chapter-5/5.1.html" class="pagination-link">
+        <span class="nav-page-text">5.1 Site percolation</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 
 

@@ -1,8 +1,6 @@
 ---
-title: "Chapter 4"
+title: "Random walks and mobile entities"
 listing:
-  contents: chapter-4
   type: grid 
 ---
-# Random walks and mobile entities
 Random walks are one of the most basic stochastic processes, and furthermore provide an obvious starting point for models of mobile entities. A wide range of variations on the basic random walk idea are presented, followed by examples where walkers interact with an environment, often by searching for resources. When many mobile entities interact with one another, an interest variation is models of flocking behaviour.

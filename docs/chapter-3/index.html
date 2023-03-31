@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pattern and Process - Chapter 7</title>
+<title>Pattern and Process - Aggregation and segregation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../chapter-3/3.1.html" rel="next">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -92,17 +93,17 @@ ul.task-list li input[type="checkbox"] {
 
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-sidebar floating nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Pattern and Process</span>
     </a>
   </div>
@@ -112,81 +113,174 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="../index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-models" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Models</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-chapters" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Chapters</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-models">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-chapters">    
         <li>
-    <a class="dropdown-item" href="./chapter-1.html">
+    <a class="dropdown-item" href="../chapter-1/index.html">
  <span class="dropdown-text">Chapter 1</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-2.html">
+    <a class="dropdown-item" href="../chapter-2/index.html">
  <span class="dropdown-text">Chapter 2</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-3.html">
+    <a class="dropdown-item" href="../chapter-3/index.html">
  <span class="dropdown-text">Chapter 3</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-4.html">
+    <a class="dropdown-item" href="../chapter-4/index.html">
  <span class="dropdown-text">Chapter 4</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-5.html">
+    <a class="dropdown-item" href="../chapter-5/index.html">
  <span class="dropdown-text">Chapter 5</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-6.html">
+    <a class="dropdown-item" href="../chapter-6/index.html">
  <span class="dropdown-text">Chapter 6</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-7.html">
+    <a class="dropdown-item" href="../chapter-7/index.html">
  <span class="dropdown-text">Chapter 7</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-8.html">
+    <a class="dropdown-item" href="../chapter-8/index.html">
  <span class="dropdown-text">Chapter 8</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./chapter-9.html">
+    <a class="dropdown-item" href="../chapter-9/index.html">
  <span class="dropdown-text">Chapter 9</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">
- <span class="menu-text">About</span></a>
+    <a class="nav-link" href="../about.html">
+ <span class="menu-text">About the authors</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Aggregation and segregation</h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/index.html" class="sidebar-item-text sidebar-link active">Aggregation and segregation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.1.html" class="sidebar-item-text sidebar-link">3.1 Local averaging</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.2.html" class="sidebar-item-text sidebar-link">3.2 Vicsek’s model of galaxy formation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.3.html" class="sidebar-item-text sidebar-link">3.3 Totalistic automata</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.4.html" class="sidebar-item-text sidebar-link">3.4 Basic two dimensional contact process</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.5.html" class="sidebar-item-text sidebar-link">3.5 Competing contact processes</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.6.html" class="sidebar-item-text sidebar-link">3.6 Grass – bush – trees IPS succession model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.7.html" class="sidebar-item-text sidebar-link">3.7 Simple rock – scissors – paper IPS model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.8.html" class="sidebar-item-text sidebar-link">3.8 Simple voter model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.9.html" class="sidebar-item-text sidebar-link">3.9 Voter model with dispersal and mutation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.10.html" class="sidebar-item-text sidebar-link">3.10 The Schelling model of segregation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.11.html" class="sidebar-item-text sidebar-link">3.11 Schelling model implemented as an IPS</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.12.html" class="sidebar-item-text sidebar-link">3.12 Iterative binary subdivision</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.13.html" class="sidebar-item-text sidebar-link">3.13 Centroidal Voronoi tessellation</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.14.html" class="sidebar-item-text sidebar-link">3.14 Spots and stripes: a discrete reaction-diffusion model</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.15.html" class="sidebar-item-text sidebar-link">3.15 Nowak and May’s spatial prisoners’ dilemma</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../chapter-3/3.16.html" class="sidebar-item-text sidebar-link">3.16 Evolutionary spatial prisoners’ dilemma</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#model-uncertainty-and-evaluation" id="toc-model-uncertainty-and-evaluation" class="nav-link active" data-scroll-target="#model-uncertainty-and-evaluation">Model uncertainty and evaluation</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Chapter 7</h1>
+<h1 class="title d-none d-lg-block">Aggregation and segregation</h1>
 </div>
 
 
@@ -201,13 +295,10 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="model-uncertainty-and-evaluation" class="level1">
-<h1>Model uncertainty and evaluation</h1>
-<p>This chapter considers the wide range of methods available for the evaluation of models. The key idea underlying any such evaluation is to get to grips with the uncertainties inherent in any stochastic model of a spatial process – the range of variation in model outcomes, and how (if at all) we can make useful inferences from models about real-world processes.</p>
+<p>In this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.</p>
 
 
 
-</section>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
@@ -350,6 +441,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="../chapter-3/3.1.html" class="pagination-link">
+        <span class="nav-page-text">3.1 Local averaging</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
 </div> <!-- /content -->
 
 
