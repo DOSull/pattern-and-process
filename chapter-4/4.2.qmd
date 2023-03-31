@@ -1,0 +1,6 @@
+---
+title: "4.2 The correlation length effect in random walks"
+format: html
+---
+
+[![](4.2-correlation-length-walks.png)](4.2-correlation-length-walks.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how a correlated random walk, when consecutive steps are aggregated, reverts to a simple random walk without correlation but with a longer mean step length. This effect means that correlated random walks are ultimately diffusive (not super-diffusive) like simple random walks.

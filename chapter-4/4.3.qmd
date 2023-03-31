@@ -1,0 +1,10 @@
+---
+title: "4.3 Simon’s satisficing forager model on a lattice"
+format: html
+---
+
+[![](4.3-Simon-lattice-forager.png)](4.3-Simon-lattice-forager.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is a loose implementation of the model of resource search discussed in
+
+Simon HA 1956 Rational choice and the structure of the environment. _Psychological Review_ **63** 129-38.
+
+The model demonstrates the importance of relative direct movement for search efficiency, and the importance of vision, in an environment where resources are relatively rare.

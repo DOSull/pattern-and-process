@@ -1,0 +1,6 @@
+---
+title: "4.1 Random walks"
+format: html
+---
+
+[![](4.1-random-walks.png)](4.1-random-walks.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model implements a number of variations on the random walk including the lattice-based walk, the simple random walk, walks with different distributions of step lengths, and correlated (direction) random walks.

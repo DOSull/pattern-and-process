@@ -1,0 +1,6 @@
+---
+title: "4.6 The effect of environmental change on movement"
+format: html
+---
+
+[![](4.6-foraging-with-regrowth.png)](4.6-foraging-with-regrowth.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model shows how a changing environment can drive the characteristics of observed movement.
