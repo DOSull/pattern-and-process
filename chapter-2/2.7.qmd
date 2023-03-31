@@ -1,6 +1,6 @@
 ---
-title: "2.6 Point processes with clustering"
+title: "2.7 The double Thomas point process"
 format: html
 ---
 
-[![](2.7-double-cluster.png)](2.7-doubleCluster.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of Flügge et al. You will need the `r` and `palette` extensions to run this model.
+[![](2.7-double-cluster.png)](2.7-doubleCluster.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of Flügge et al.

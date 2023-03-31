@@ -3,4 +3,4 @@ title: "2.5 A point process with inhibition"
 format: html
 ---
 
-[![](2.5-inhibition.png)](2.5-inhibition.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a point process with inhibition which prevents two events from being located nearer one another than some specified distances and can produce evenly-spaced or dispersed patterns. You will need the `r` and `palette` extensions to run this model.
+[![](2.5-inhibition.png)](2.5-inhibition.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a point process with inhibition which prevents two events from being located nearer one another than some specified distances and can produce evenly-spaced or dispersed patterns.

@@ -81,7 +81,7 @@
     "href": "chapter-3/index.html",
     "title": "Aggregation and segregation",
     "section": "",
-    "text": "In this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "In this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Totalistic automata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.8 Simple voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.9 Voter model with dispersal and mutation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.10 The Schelling model of segregation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.11 Schelling model implemented as an IPS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.12 Iterative binary subdivision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.13 Centroidal Voronoi tessellation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.14 Spots and stripes: a discrete reaction-diffusion model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.15 Nowak and May’s spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.16 Evolutionary spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-3/3.9.html",
@@ -144,49 +144,49 @@
     "href": "chapter-2/2.4.html",
     "title": "2.4 The inhomogeneous point process",
     "section": "",
-    "text": "This is model demonstrates an inhomogeneous Poisson point process in which the probability of a point event occurring varies from place to place across the area of interest. You will need the r and palette extensions to run this model."
+    "text": "This is model demonstrates an inhomogeneous Poisson point process in which the probability of a point event occurring varies from place to place across the area of interest."
   },
   {
     "objectID": "chapter-2/2.5.html",
     "href": "chapter-2/2.5.html",
     "title": "2.5 A point process with inhibition",
     "section": "",
-    "text": "This model demonstrates a point process with inhibition which prevents two events from being located nearer one another than some specified distances and can produce evenly-spaced or dispersed patterns. You will need the r and palette extensions to run this model."
+    "text": "This model demonstrates a point process with inhibition which prevents two events from being located nearer one another than some specified distances and can produce evenly-spaced or dispersed patterns."
   },
   {
     "objectID": "chapter-2/2.3.html",
     "href": "chapter-2/2.3.html",
     "title": "2.3 Complete spatial randomness for a point pattern",
     "section": "",
-    "text": "This model simulates the independent random process or complete spatial randomness for a spatial point process. You will need the palette extension to run this model."
+    "text": "This model simulates the independent random process or complete spatial randomness for a spatial point process."
   },
   {
     "objectID": "chapter-2/2.6.html",
     "href": "chapter-2/2.6.html",
     "title": "2.6 Point processes with clustering",
     "section": "",
-    "text": "This model demonstrates Thomas and Matern point processes which can be tuned to produce patterns that exhibit distinct clusters of events. You will need the r and palette extensions to run this model."
+    "text": "This model demonstrates Thomas and Matern point processes which can be tuned to produce patterns that exhibit distinct clusters of events."
   },
   {
     "objectID": "chapter-2/2.7.html",
     "href": "chapter-2/2.7.html",
-    "title": "2.6 Point processes with clustering",
+    "title": "2.7 The double Thomas point process",
     "section": "",
-    "text": "This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of Flügge et al. You will need the r and palette extensions to run this model."
+    "text": "This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of Flügge et al."
   },
   {
     "objectID": "chapter-2/2.2.html",
     "href": "chapter-2/2.2.html",
     "title": "2.2 Flügge et al.’s spatial memory model",
     "section": "",
-    "text": "This is an implementation of the model described in\nFlügge AJ, Olhede SC and Murrell D 2012. The memory of spatial patterns – changes in local abundance and aggregation in a tropical forest. Ecology 93, 1540-49.\nThis model also requires this NetLogo source file to run. You should place this file in the same folder as the model .nlogo file. An alternative version of the model is available, which makes use of the `r`` extension."
+    "text": "This is an implementation of the model described in\nFlügge AJ, Olhede SC and Murrell D 2012. The memory of spatial patterns – changes in local abundance and aggregation in a tropical forest. Ecology 93, 1540-49.\nThis model also requires this NetLogo source file to run. You should place this file in the same folder as the model .nlogo file."
   },
   {
     "objectID": "chapter-2/index.html",
     "href": "chapter-2/index.html",
     "title": "Pattern, process and scale",
     "section": "",
-    "text": "This chapter focuses its attention on concepts central to the study of spatial models, pattern and process. A third important concept – scale – is also introduced, and the ways in which patterns and processes may change depending on the spatial and temporal scale at which analysis is conducted are considered. We explore these ideas by considering statistical point processes that produce static point patterns, and also show how such static models can easily transition to dynamic models similar to those considered in the remainder of the book.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.1 Scaling a pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 Flügge et al.’s spatial memory model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 Complete spatial randomness for a point pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 The inhomogeneous point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 A point process with inhibition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 Point processes with clustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 Point processes with clustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This chapter focuses its attention on concepts central to the study of spatial models, pattern and process. A third important concept – scale – is also introduced, and the ways in which patterns and processes may change depending on the spatial and temporal scale at which analysis is conducted are considered. We explore these ideas by considering statistical point processes that produce static point patterns, and also show how such static models can easily transition to dynamic models similar to those considered in the remainder of the book.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.1 Scaling a pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 Flügge et al.’s spatial memory model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 Complete spatial randomness for a point pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 The inhomogeneous point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 A point process with inhibition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 Point processes with clustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 The double Thomas point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-2/2.1.html",
@@ -305,7 +305,7 @@
     "href": "chapter-6/6.6.html",
     "title": "6.6 Game of life on an ‘infinite’ lattice",
     "section": "",
-    "text": "This model demonstrates how the game of life can be implemented on an ‘inifitely extensible’ lattice by only recording the locations of live cells."
+    "text": "This model demonstrates how the game of life can be implemented on an ‘infinitely extensible’ lattice by only recording the locations of live cells."
   },
   {
     "objectID": "chapter-6/index.html",

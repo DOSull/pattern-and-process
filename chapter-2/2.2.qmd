@@ -7,4 +7,4 @@ format: html
 
 Flügge AJ, Olhede SC and Murrell D 2012. The memory of spatial patterns – changes in local abundance and aggregation in a tropical forest. _Ecology_ **93**, 1540-49.
 
-This model also requires [this NetLogo source file](distributions.nls) to run. You should place this file in the same folder as the model `.nlogo` file. An [alternative version of the model is available](2.2-flugge-2012-spatial-bd.nlogo), which makes use of the `r`` extension.
+This model also requires [this NetLogo source file](distributions.nls) to run. You should place this file in the same folder as the model `.nlogo` file.

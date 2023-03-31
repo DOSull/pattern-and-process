@@ -2,8 +2,8 @@
 title: "Aggregation and segregation"
 listing:
   contents:
-    - "chapter-3/3.[[:digit:]].qmd"
-    - "chapter-3/3.1[[:digit:]].qmd"
+    - "3.[[:digit:]].qmd"
+    - "3.1[[:digit:]].qmd"
   type: grid 
   sort: "false"
 ---
