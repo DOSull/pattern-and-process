@@ -1,5 +1,5 @@
 ---
-title: "3.3 Vicsek’s model of galaxy formation"
+title: "3.3 Totalistic automata"
 format: html
 ---
 

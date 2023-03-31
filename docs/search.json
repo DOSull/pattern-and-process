@@ -18,7 +18,7 @@
     "href": "chapter-4.html",
     "title": "Chapter 4",
     "section": "",
-    "text": "Random walks and mobile entities\nRandom walks are one of the most basic stochastic processes, and furthermore provide an obvious starting point for models of mobile entities. A wide range of variations on the basic random walk idea are presented, followed by examples where walkers interact with an environment, often by searching for resources. When many mobile entities interact with one another, an interest variation is models of flocking behaviour.\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Random walks and mobile entities\nRandom walks are one of the most basic stochastic processes, and furthermore provide an obvious starting point for models of mobile entities. A wide range of variations on the basic random walk idea are presented, followed by examples where walkers interact with an environment, often by searching for resources. When many mobile entities interact with one another, an interest variation is models of flocking behaviour.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.1 Random walks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 The correlation length effect in random walks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 Simon’s satisficing forager model on a lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 Area searched by a ‘Simon forager’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 Foraging in a heterogeneous environment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 The effect of environmental change on movement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.7 Flocking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-3/3.2.html",
@@ -32,7 +32,7 @@
     "href": "chapter-3/3.10.html",
     "title": "3.10 The Schelling model of segregation",
     "section": "",
-    "text": "This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically. The original papers on this model are:\nSchelling TC 1969 Models of segregation. American Economic Review 59 488–493. Schelling TC 1971 Dynamic models of segregation. Journal of Mathematical Sociology 1 143–186. Schelling TC 1978 Micromotives and Macrobehavior. Norton, New York."
+    "text": "This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically. The original papers on this model are:\nSchelling TC 1969 Models of segregation. American Economic Review 59 488–493.\nSchelling TC 1971 Dynamic models of segregation. Journal of Mathematical Sociology 1 143–186.\nSchelling TC 1978 Micromotives and Macrobehavior. Norton, New York."
   },
   {
     "objectID": "chapter-3/3.4.html",
@@ -58,7 +58,7 @@
   {
     "objectID": "chapter-3/3.3.html",
     "href": "chapter-3/3.3.html",
-    "title": "3.3 Vicsek’s model of galaxy formation",
+    "title": "3.3 Totalistic automata",
     "section": "",
     "text": "This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states."
   },
@@ -137,7 +137,7 @@
     "href": "chapter-3.html",
     "title": "Chapter 3",
     "section": "",
-    "text": "Aggregation and segregation\nIn this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.8 Simple voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.9 Voter model with dispersal and mutation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.10 The Schelling model of segregation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.11 Schelling model implemented as an IPS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.12 Iterative binary subdivision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.13 Centroidal Voronoi tessellation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.14 Spots and stripes: a discrete reaction-diffusion model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.15 Nowak and May’s spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.16 Evolutionary spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Aggregation and segregation\nIn this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Totalistic automata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.8 Simple voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.9 Voter model with dispersal and mutation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.10 The Schelling model of segregation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.11 Schelling model implemented as an IPS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.12 Iterative binary subdivision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.13 Centroidal Voronoi tessellation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.14 Spots and stripes: a discrete reaction-diffusion model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.15 Nowak and May’s spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.16 Evolutionary spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-2/2.4.html",
@@ -187,6 +187,55 @@
     "title": "2.1 Conway’s game of life",
     "section": "",
     "text": "This model demonstrates some of the challenges involved in rescaling patterns. To run this model you will also need this NetLogo source file and this text file."
+  },
+  {
+    "objectID": "chapter-4/4.7.html",
+    "href": "chapter-4/4.7.html",
+    "title": "4.7 Flocking",
+    "section": "",
+    "text": "A flocking model loosely based on ideas in\nCzirók A and Vicsek T 2000 Collective behavior of interacting self-propelled particles. Physica A: Statistical Mechanics and its Applications 281 17–29.\nGrégoire G, Chaté H and Tu Y 2003 Moving and staying together without a leader. Physica D: Nonlinear Phenomena 181 157–70.\nVicsek T, Czirók, A. A, Ben-Jacob E, Cohen I and Sochet O 1995 Novel type of phase transition in a system of self-driven particles. Physical Review Letters 75 1226–29.\nThis model also includes various different implementations of the idea of ‘flock-mates’ which demonstrate the importance of basic spatial properties (in this case proximity or ‘neighbourhood’) in many spatial models."
+  },
+  {
+    "objectID": "chapter-4/4.1.html",
+    "href": "chapter-4/4.1.html",
+    "title": "4.1 Random walks",
+    "section": "",
+    "text": "This model implements a number of variations on the random walk including the lattice-based walk, the simple random walk, walks with different distributions of step lengths, and correlated (direction) random walks."
+  },
+  {
+    "objectID": "chapter-4/4.6.html",
+    "href": "chapter-4/4.6.html",
+    "title": "4.6 The effect of environmental change on movement",
+    "section": "",
+    "text": "This model shows how a changing environment can drive the characteristics of observed movement."
+  },
+  {
+    "objectID": "chapter-4/4.2.html",
+    "href": "chapter-4/4.2.html",
+    "title": "4.2 The correlation length effect in random walks",
+    "section": "",
+    "text": "This model demonstrates how a correlated random walk, when consecutive steps are aggregated, reverts to a simple random walk without correlation but with a longer mean step length. This effect means that correlated random walks are ultimately diffusive (not super-diffusive) like simple random walks."
+  },
+  {
+    "objectID": "chapter-4/4.4.html",
+    "href": "chapter-4/4.4.html",
+    "title": "4.4 Area searched by a ‘Simon forager’",
+    "section": "",
+    "text": "Results from this model are used in figure 4.12 to demonstrate the relationship between movement tortuosity and search efficiency."
+  },
+  {
+    "objectID": "chapter-4/4.3.html",
+    "href": "chapter-4/4.3.html",
+    "title": "4.3 Simon’s satisficing forager model on a lattice",
+    "section": "",
+    "text": "This is a loose implementation of the model of resource search discussed in\nSimon HA 1956 Rational choice and the structure of the environment. Psychological Review 63 129-38.\nThe model demonstrates the importance of relative direct movement for search efficiency, and the importance of vision, in an environment where resources are relatively rare."
+  },
+  {
+    "objectID": "chapter-4/4.5.html",
+    "href": "chapter-4/4.5.html",
+    "title": "4.5 Foraging in a heterogeneous environment",
+    "section": "",
+    "text": "This model demonstrates how the distribution of resource availability in an environment can strongly influence the characteristics of movement motivated by exploitation of the resource. This model is loosely based on that described in\nBoyer D, Ramos-Fernández G, Miramontes O, Mateos JL, Cocho G, Larralde H, Ramos H and Rojas F 2006 Scale-free foraging by primates emerges from their interaction with a complex environment. Proceedings of the Royal Society. Series B 273 1743-50."
   },
   {
     "objectID": "chapter-2.html",

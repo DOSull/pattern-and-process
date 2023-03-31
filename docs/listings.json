@@ -5,7 +5,15 @@
   },
   {
     "listing": "/chapter-4.html",
-    "items": []
+    "items": [
+      "/chapter-4/4.1.html",
+      "/chapter-4/4.2.html",
+      "/chapter-4/4.3.html",
+      "/chapter-4/4.4.html",
+      "/chapter-4/4.5.html",
+      "/chapter-4/4.6.html",
+      "/chapter-4/4.7.html"
+    ]
   },
   {
     "listing": "/chapter-3.html",
