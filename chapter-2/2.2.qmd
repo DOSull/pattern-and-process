@@ -1,0 +1,10 @@
+---
+title: "2.2 Flügge et al.'s spatial memory model"
+format: html
+---
+
+[![](2.2-flugge-2012-spatial-bd.png)](2.2-flugge-2012-spatial-bd-noR.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of the model described in
+
+Flügge AJ, Olhede SC and Murrell D 2012. The memory of spatial patterns – changes in local abundance and aggregation in a tropical forest. _Ecology_ **93**, 1540-49.
+
+This model also requires [this NetLogo source file](distributions.nls) to run. You should place this file in the same folder as the model `.nlogo` file. An [alternative version of the model is available](2.2-flugge-2012-spatial-bd.nlogo), which makes use of the `r`` extension.

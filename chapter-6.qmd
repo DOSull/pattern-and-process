@@ -1,0 +1,8 @@
+---
+title: "Chapter 6"
+listing:
+  contents: chapter-6
+  type: grid 
+---
+# Representing time and space
+In earlier chapters we have not considered how apparently simple choices about how to represent time (synchronously, asynchronously, or event-based?) and space (as a grid, as a network, as points, as polygons?) may affect both model outcomes and also affect the realism of the resulting models. In this chapter various aspects of these choices are given due consideration.

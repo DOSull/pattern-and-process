@@ -1,0 +1,8 @@
+---
+title: "3.5 Competing contact processes"
+format: html
+---
+
+[![](3.5-CompetingContactProcess2D.png)](3.5-CompetingContactProcess2D.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of competing contact processes in two dimensions, including an option for one of the processes to spread over long distances. Models of this kind are discussed in
+
+Durrett R and Levin SA 1994b Stochastic spatial models: a user’s guide to ecological applications. _Philosophical Transactions of the Royal Society of London. Series B_ **343**, 329-350.

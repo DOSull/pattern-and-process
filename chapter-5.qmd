@@ -1,0 +1,8 @@
+---
+title: "Chapter 5"
+listing:
+  contents: chapter-5
+  type: grid 
+---
+# Percolation and growth
+The models in this chapter provide a basis for both models of landscape pattern, and for diffusive spread through such landscapes. The underlying basis of all these models is percolation which partitions a space into either occupied or unoccupied sites either all at once, or sequentially according to some simple rule, to yield a wide variety of models of growth processes.

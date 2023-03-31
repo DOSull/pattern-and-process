@@ -1,0 +1,8 @@
+---
+title: "Chapter 7"
+listing:
+  contents: chapter-7
+  type: grid 
+---
+# Model uncertainty and evaluation
+This chapter considers the wide range of methods available for the evaluation of models. The key idea underlying any such evaluation is to get to grips with the uncertainties inherent in any stochastic model of a spatial process – the range of variation in model outcomes, and how (if at all) we can make useful inferences from models about real-world processes.

@@ -1,0 +1,8 @@
+---
+title: "Chapter 2"
+listing:
+  contents: chapter-2
+  type: grid 
+---
+# Pattern, process and scale
+This chapter focuses its attention on concepts central to the study of spatial models, pattern and process. A third important concept – scale – is also introduced, and the ways in which patterns and processes may change depending on the spatial and temporal scale at which analysis is conducted are considered. We explore these ideas by considering statistical point processes that produce static point patterns, and also show how such static models can easily transition to dynamic models similar to those considered in the remainder of the book.

@@ -1,0 +1,8 @@
+---
+title: "Chapter 1"
+listing:
+  contents: chapter-1
+  type: grid 
+---
+# Spatial simulations: what? why? how?
+In this chapter we discuss the concept of a model, why simulation models in particular have become such an important scientific tool in recent decades, and finally the particular focus of the book on spatial simulation models.  Along the way we consider the game of life cellular automaton as an example of behavioural complexity (and also as a very simple dynamic model), and also simple statistical models to illustrate the strengths and weaknesses of simple abstract models.

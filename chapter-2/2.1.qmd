@@ -1,0 +1,6 @@
+---
+title: "2.1 Conway's game of life"
+format: html
+---
+
+[![](2.1-scale.png)](2.1-scale.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates some of the challenges involved in rescaling patterns. To run this model you will also need [this NetLogo source file](2.1-scale-mrc.nls) and [this text file](2.1-classes.txt).

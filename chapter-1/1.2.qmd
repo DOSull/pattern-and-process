@@ -1,0 +1,6 @@
+---
+title: "1.2 Additive Galton board"
+format: html
+---
+
+[![](1.2-galtonBoard-Additive.png)](1.2-galtonBoard-Additive.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model simulates a Galton board, which demonstrates both the central limit theorem of statistics as it relates to additive processes, and also the expected displacement associated with a 1-D random walk.

@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Pattern and Process"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: Models
+        menu: 
+          - chapter-1.qmd
+          - chapter-2.qmd
+          - chapter-3.qmd
+          - chapter-4.qmd
+          - chapter-5.qmd
+          - chapter-6.qmd
+          - chapter-7.qmd
+          - chapter-8.qmd
+          - chapter-9.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+
+
+
