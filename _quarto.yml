@@ -126,7 +126,7 @@ website:
 
 format:
   html:
-    theme: sandstone
+    theme: simplex
     css: styles.css
     toc: true
 
