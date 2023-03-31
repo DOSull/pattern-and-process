@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/chapter-1.html",
-    "items": [
-      "/chapter-1/1.1.html",
-      "/chapter-1/1.2.html",
-      "/chapter-1/1.3.html"
-    ]
-  },
-  {
     "listing": "/chapter-6.html",
     "items": []
   },
@@ -23,7 +15,8 @@
       "/chapter-3/3.3.html",
       "/chapter-3/3.4.html",
       "/chapter-3/3.5.html",
-      "/chapter-3/3.6.html"
+      "/chapter-3/3.6.html",
+      "/chapter-3/3.7.html"
     ]
   },
   {
@@ -53,5 +46,13 @@
   {
     "listing": "/chapter-8.html",
     "items": []
+  },
+  {
+    "listing": "/chapter-1.html",
+    "items": [
+      "/chapter-1/1.1.html",
+      "/chapter-1/1.2.html",
+      "/chapter-1/1.3.html"
+    ]
   }
 ]
