@@ -1,0 +1,6 @@
+---
+title: "6.2 Majority rule automata under different update sequencing"
+format: html
+---
+
+[![](6.2-majority-rule-under-different-update-models.png)](6.2-majority-rule-under-different-update-models.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how changing the sequencing of the majority rule cellular automaton update rule leads to different outcomes.

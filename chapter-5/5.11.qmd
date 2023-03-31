@@ -1,0 +1,8 @@
+---
+title: "5.11 Williams-Bjerknes Eden growth model for abnormal cells"
+format: html
+---
+
+[![](5.11-edenWilliamsBjerknes.png)](5.11-edenWilliamsBjerknes.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of the process described in
+
+Williams T and Bjerknes R 1972 Stochastic model for abnormal clone spread through epithelial basal layer. _Nature_ **236** 19–21.

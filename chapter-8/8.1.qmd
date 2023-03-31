@@ -1,0 +1,8 @@
+---
+title: "8.1 leGUME (the Grand Unified Model of Everything)"
+format: html
+---
+
+[![](8.1-leGUME.png)](8.1-leGUME.zip){style="float:left; margin-right:10px; margin-bottom:5px;"} This is the model presented in Chapter 8 of the book, which combines elements from many of the building-block models discussed in earlier chapters.
+
+Details of the model are in Chapter 8 and additional information not included in the Chapter can be [found here](model_details.pdf).

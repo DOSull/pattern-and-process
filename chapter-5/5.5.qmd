@@ -1,0 +1,6 @@
+---
+title: "5.5 Invasion percolation"
+format: html
+---
+
+[![](5.5-invasionPercolationWithTrapping.png)](5.5-invasionPercolationWithTrapping.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates invasion percolation in a landscape with randomly assigned resistance values.

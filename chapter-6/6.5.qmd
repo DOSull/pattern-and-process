@@ -1,0 +1,6 @@
+---
+title: "6.5 Voronoi tessellation based voter model"
+format: html
+---
+
+[![](6.5-voronoi-voter.png)](6.5-voronoi-voter.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a voter model on a Voronoi tessellation. Again, the outcomes are not qualitatively different from those on a grid-based lattice.

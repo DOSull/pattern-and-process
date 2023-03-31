@@ -1,0 +1,6 @@
+---
+title: "5.3 Site percolation forest fire model"
+format: html
+---
+
+[![](5.3-firePercolation.png)](5.3-firePercolation.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} A simple site-percolation based model of a forest-fire (or any other contagious process).

@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -211,7 +211,138 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1680234042574" data-listing-reading-time-sort="0.105">
+<a href="./chapter-6/6.1.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./chapter-6/6.1-life-under-different-update-models.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+6.1 Game of life with different update timings
+</h5>
+<div class="card-text listing-description">
+ This model demonstrates how changing the sequencing of the game of life update rule leads to different outcomes.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
 
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1680234161965" data-listing-reading-time-sort="0.11">
+<a href="./chapter-6/6.2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./chapter-6/6.2-majority-rule-under-different-update-models.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+6.2 Majority rule automata under different update sequencing
+</h5>
+<div class="card-text listing-description">
+ This model demonstrates how changing the sequencing of the majority rule cellular automaton update rule leads to different outcomes.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1680234225728" data-listing-reading-time-sort="0.11">
+<a href="./chapter-6/6.3.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./chapter-6/6.3-event-queue-simple.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+6.3 Implementing an event queue
+</h5>
+<div class="card-text listing-description">
+ This model demonstrates how an event-based model of time can lead to much faster operation of functionally identical models.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1680234295212" data-listing-reading-time-sort="0.125">
+<a href="./chapter-6/6.4.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./chapter-6/6.4-hex-array-voter.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+6.4 Voter model on a hexagonal lattice
+</h5>
+<div class="card-text listing-description">
+ This model demonstrates a voter model on a hexagonal lattice. The outcomes are not qualitatively different from those on a grid-based lattice.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1680234363291" data-listing-reading-time-sort="0.13">
+<a href="./chapter-6/6.5.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./chapter-6/6.5-voronoi-voter.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+6.5 Voronoi tessellation based voter model
+</h5>
+<div class="card-text listing-description">
+ This model demonstrates a voter model on a Voronoi tessellation. Again, the outcomes are not qualitatively different from those on a grid-based lattice.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1680234432674" data-listing-reading-time-sort="0.135">
+<a href="./chapter-6/6.6.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./chapter-6/6.6-infinite-life.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+6.6 Game of life on an ‘infinite’ lattice
+</h5>
+<div class="card-text listing-description">
+ This model demonstrates how the game of life can be implemented on an ‘inifitely extensible’ lattice by only recording the locations of live cells.
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
 </div>
 <div class="listing-no-matching d-none">
 No matching items

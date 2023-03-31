@@ -1,0 +1,6 @@
+---
+title: "6.3 Implementing an event queue"
+format: html
+---
+
+[![](6.3-event-queue-simple.png)](6.3-event-queue-simple.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how an event-based model of time can lead to much faster operation of functionally identical models.

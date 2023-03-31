@@ -1,0 +1,8 @@
+---
+title: "5.7 Simple Eden growth model"
+format: html
+---
+
+[![](5.7-edenSimple.png)](5.7-edenSimple.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of the basic Eden growth process as originally presented in
+
+Eden M 1961 A two-dimensional growth process, _4th Berkeley Symposium on Mathematical Statistics and Probability_, pp. 223–239, University of California Press, Berkeley, CA.

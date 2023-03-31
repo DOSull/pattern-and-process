@@ -1,0 +1,8 @@
+---
+title: "5.8 Inverted Eden process"
+format: html
+---
+
+[![](5.8-edenSimpleInverse.png)](5.8-edenSimpleInverse.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of the simple inverse Eden process presented in
+
+Savakis AE and Maggelakis SA 1997 Models of shrinking clusters with applications to epidermal wound healing. _Mathematical and Computer Modelling_ **25** 1–6.

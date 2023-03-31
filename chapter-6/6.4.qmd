@@ -1,0 +1,6 @@
+---
+title: "6.4 Voter model on a hexagonal lattice"
+format: html
+---
+
+[![](6.4-hex-array-voter.png)](6.4-hex-array-voter.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a voter model on a hexagonal lattice. The outcomes are not qualitatively different from those on a grid-based lattice.
