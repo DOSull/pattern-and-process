@@ -3,4 +3,12 @@ title: "2.4 The inhomogeneous point process"
 format: html
 ---
 
-[![](2.4-inhomPoisson.png)](2.4-inhomPoisson.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is model demonstrates an inhomogeneous Poisson point process in which the probability of a point event occurring varies from place to place across the area of interest.
+:::: {.columns}
+::: {.column width=35%}
+[![](2.4-inhomPoisson.png)](2.4-inhomPoisson.nlogo)
+:::
+
+::: {.column width=65%}
+This is model demonstrates an inhomogeneous Poisson point process in which the probability of a point event occurring varies from place to place across the area of interest.
+:::
+::::

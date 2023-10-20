@@ -3,8 +3,16 @@ title: "5.14 Benguigui’s Eden process based model of urban growth"
 format: html
 ---
 
-[![](5.14-benguiguiP.png)](5.14-benguiguiP.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model simulates a version of Benguigui’s highly abstract model of urban growth, as discussed in
+:::: {.columns}
+::: {.column width=35%}
+[![](5.14-benguiguiP.png)](5.14-benguiguiP.nlogo)
+:::
+
+::: {.column width=65%}
+This model simulates a version of Benguigui’s highly abstract model of urban growth, as discussed in
 
 Benguigui L. 1995. A new aggregation model. Application to town growth. _Physica A: Statistical Mechanics and its Applications_ **219** 13–26.
 
 Benguigui L. 1998. Aggregation models for town growth. _Philosophical Magazine Part B_ **77** 1269–75.
+:::
+::::

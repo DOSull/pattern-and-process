@@ -3,4 +3,12 @@ title: "3.7 Simple rock – scissors – paper IPS model"
 format: html
 ---
 
-[![](3.7-simpleRSP.png)](3.7-simpleRSP.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of a rock – scissors – paper succession model.
+:::: {.columns}
+::: {.column width=35%}
+[![](3.7-simpleRSP.png)](3.7-simpleRSP.nlogo)
+:::
+
+::: {.column width=65%}
+This model is an implementation of a rock – scissors – paper succession model.
+:::
+::::

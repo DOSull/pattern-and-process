@@ -3,4 +3,12 @@ title: "6.6 Game of life on an 'infinite' lattice"
 format: html
 ---
 
-[![](6.6-infinite-life.png)](6.6-infinite-life.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how the game of life can be implemented on an ‘infinitely extensible’ lattice by only recording the locations of live cells.
+:::: {.columns}
+::: {.column width=35%}
+[![](6.6-infinite-life.png)](6.6-infinite-life.nlogo)
+:::
+
+::: {.column width=65%}
+This model demonstrates how the game of life can be implemented on an ‘infinitely extensible’ lattice by only recording the locations of live cells.
+:::
+::::

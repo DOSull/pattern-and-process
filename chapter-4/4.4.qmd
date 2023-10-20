@@ -3,4 +3,12 @@ title: "4.4 Area searched by a ‘Simon forager’"
 format: html
 ---
 
-[![](4.4-manhattan-sausages.png)](4.4-manhattan-sausages.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} Results from this model are used in figure 4.12 to demonstrate the relationship between movement tortuosity and search efficiency.
+:::: {.columns}
+::: {.column width=35%}
+[![](4.4-manhattan-sausages.png)](4.4-manhattan-sausages.nlogo)
+:::
+
+::: {.column width=65%}
+Results from this model are used in figure 4.12 to demonstrate the relationship between movement tortuosity and search efficiency.
+:::
+::::

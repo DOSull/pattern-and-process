@@ -3,4 +3,12 @@ title: "3.1 Local averaging"
 format: html
 ---
 
-[![](3.1-local-average.png)](3.1-local-average.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} A model illustrating the smoothing or diffusion effect produced by iterative local averaging.
+:::: {.columns}
+::: {.column width=35%}
+[![](3.1-local-average.png)](3.1-local-average.nlogo)
+:::
+
+::: {.column width=65%}
+A model illustrating the smoothing or diffusion effect produced by iterative local averaging.
+:::
+::::

@@ -3,6 +3,14 @@ title: "5.16 Diffusion limited aggregation (DLA)"
 format: html
 ---
 
-[![](5.16-onlattice-dla.png)](5.16-onlattice-dla.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of an on-lattice (i.e. grid-based) diffusion-limited aggregation process. See
+:::: {.columns}
+::: {.column width=35%}
+[![](5.16-onlattice-dla.png)](5.16-onlattice-dla.nlogo)
+:::
+
+::: {.column width=65%}
+This is an implementation of an on-lattice (i.e. grid-based) diffusion-limited aggregation process. See
 
 Witten TA and LM Sander. 1981. Diffusion-limited aggregation, a kinetic critical phenomenon. _Physical Review Letters_ **47** 1400–1403.
+:::
+::::

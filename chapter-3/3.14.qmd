@@ -3,7 +3,13 @@ title: "3.14 Spots and stripes: a discrete reaction-diffusion model"
 format: html
 ---
 
-[![](3.14-spots-and-stripes.png)](3.14-spots-and-stripes.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model implements the cellular automaton model described by
+:::: {.columns}
+::: {.column width=35%}
+[![](3.14-spots-and-stripes.png)](3.14-spots-and-stripes.nlogo)
+:::
+
+::: {.column width=65%}
+This model implements the cellular automaton model described by
 
 Young DA. 1984. A local activator-inhibitor model of vertebrate skin patterns. _Mathematical Biosciences_ **72** 51–58.
 
@@ -12,3 +18,5 @@ which is itself a cellular automaton discretisation of Turing’s reaction-diffu
 Turing AM. 1952.. The chemical basis of morphogenesis. _Philosophical Transactions of the Royal Society of London. Series B_ **237** 37–72
 
 The reaction-diffusion model is a fundamental process model across many scientific domains.
+:::
+::::

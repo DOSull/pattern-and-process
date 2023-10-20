@@ -3,6 +3,14 @@ title: "3.15 Nowak and May’s spatial prisoners’ dilemma"
 format: html
 ---
 
-[![](3.15-Nowak-May-1992.png)](3.15-Nowak-May-1992.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of the one described in
+:::: {.columns}
+::: {.column width=35%}
+[![](3.15-Nowak-May-1992.png)](3.15-Nowak-May-1992.nlogo)
+:::
+
+::: {.column width=65%}
+This model is an implementation of the one described in
 
 Nowak MA and RM May. 1992. Evolutionary games and spatial chaos. _Nature_ **359** 826-29.
+:::
+::::

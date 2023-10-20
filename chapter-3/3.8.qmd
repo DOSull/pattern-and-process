@@ -3,4 +3,12 @@ title: "3.8 Simple voter model"
 format: html
 ---
 
-[![](3.8-voter-model.png)](3.8-voter-model.png){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of a simple voter model.
+:::: {.columns}
+::: {.column width=35%}
+[![](3.8-voter-model.png)](3.8-voter-model.png)
+:::
+
+::: {.column width=65%}
+This model is an implementation of a simple voter model.
+:::
+::::

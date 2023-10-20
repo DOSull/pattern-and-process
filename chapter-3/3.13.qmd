@@ -3,6 +3,14 @@ title: "3.13 Centroidal Voronoi tessellation"
 format: html
 ---
 
-[![](3.13-iterated-voronoi.png)](3.13-iterated-voronoi.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} The Voronoi tessellation is an ‘all at once’ subdivision of a landscape based on proximity to a set of generating points. Many possible iterative processes based on the Voronoi tessellation are possible. This model demonstrates one example, the centroidal Voronoi tessellation where successive generations of generating points are placed at the centroids of the previous generation of Voronoi tiles. See
+:::: {.columns}
+::: {.column width=35%}
+[![](3.13-iterated-voronoi.png)](3.13-iterated-voronoi.nlogo)
+:::
 
-Du Q, V Faber and M Gunzburger. 1999. Centroidal Voronoi tessellations: applications and algorithms. _SIAM Review_ **41** 637–76. 
+::: {.column width=65%}
+The Voronoi tessellation is an ‘all at once’ subdivision of a landscape based on proximity to a set of generating points. Many possible iterative processes based on the Voronoi tessellation are possible. This model demonstrates one example, the centroidal Voronoi tessellation where successive generations of generating points are placed at the centroids of the previous generation of Voronoi tiles. See
+
+Du Q, V Faber and M Gunzburger. 1999. Centroidal Voronoi tessellations: applications and algorithms. _SIAM Review_ **41** 637–76.
+:::
+:::: 

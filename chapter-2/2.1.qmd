@@ -3,4 +3,12 @@ title: "2.1 Scaling a pattern"
 format: html
 ---
 
-[![](2.1-scale.png)](2.1-scale.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates some of the challenges involved in rescaling patterns. To run this model you will also need [this NetLogo source file](2.1-scale-mrc.nls) and [this text file](2.1-classes.txt).
+:::: {.columns}
+::: {.column width=35%}
+[![](2.1-scale.png)](2.1-scale.nlogo)
+:::
+
+::: {.column width=65%}
+This model demonstrates some of the challenges involved in rescaling patterns. To run this model you will also need [this NetLogo source file](2.1-scale-mrc.nls) and [this text file](2.1-classes.txt).
+:::
+::::

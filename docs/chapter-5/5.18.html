@@ -324,10 +324,20 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><a href="5.18-simmap.nlogo" style="float:left; margin-right:10px; margin-bottom:5px;"><img src="5.18-simmap.png" class="img-fluid"></a> This model implements the SIMMAP process for generation of neutral landscapes as described in</p>
+<div class="columns">
+<div class="column" style="width:35%;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="5.18-simmap.nlogo"><img src="5.18-simmap.png" class="img-fluid figure-img"></a></p>
+</figure>
+</div>
+</div><div class="column" style="width:65%;">
+<p>This model implements the SIMMAP process for generation of neutral landscapes as described in</p>
 <p>Saura S and J Martinez-Milan. 2000. Landscape pattern simulation with a modified random clusters method. <em>Landscape Ecology</em> <strong>15</strong> 661-677.</p>
 <p>This model also requires <a href="5.18-classes.txt">this text file</a> to configure the relative proportions of each class of landscape that it will produce. This file should not be renamed, and should be placed in the same folder as the model file.</p>
 <p>The first line of this file indicates the number of different landscape classes required. Subsequent lines indicate for each required class the desired relative proportion of the landscape that it should occupy. If the model’s percolation parameter is set too high, then it may be very difficult for the model to produce landscapes with proportions close to the requested levels.</p>
+</div>
+</div>
 
 
 

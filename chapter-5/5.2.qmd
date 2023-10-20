@@ -3,6 +3,14 @@ title: "5.2 The ant in the labyrinth"
 format: html
 ---
 
-[![](5.2-antLabyrinth.png)](5.2-antLabyrinth.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of the classic ant in the labyrinth problem, discussed in
+:::: {.columns}
+::: {.column width=35%}
+[![](5.2-antLabyrinth.png)](5.2-antLabyrinth.nlogo)
+:::
+
+::: {.column width=65%}
+This is an implementation of the classic ant in the labyrinth problem, discussed in
 
 de Gennes PG. 1976. La percolation: un concept unificateur. _La Recerche_ **7** 72–82.
+:::
+::::

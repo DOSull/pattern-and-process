@@ -3,4 +3,12 @@ title: "3.12 Iterative binary subdivision"
 format: html
 ---
 
-[![](3.12-subdivision.png)](3.12-subdivision.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model implements an interative subdivision process to construct a binary space partition which might be used to initialise neutral landscapes.
+:::: {.columns}
+::: {.column width=35%}
+[![](3.12-subdivision.png)](3.12-subdivision.nlogo)
+:::
+
+::: {.column width=65%}
+This model implements an interative subdivision process to construct a binary space partition which might be used to initialise neutral landscapes.
+:::
+::::

@@ -3,4 +3,12 @@ title: "2.6 Point processes with clustering"
 format: html
 ---
 
-[![](2.6-cluster.png)](2.6-cluster.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates Thomas and Matern point processes which can be tuned to produce patterns that exhibit distinct clusters of events.
+:::: {.columns}
+::: {.column width=35%}
+[![](2.6-cluster.png)](2.6-cluster.nlogo)
+:::
+
+::: {.column width=65%}
+This model demonstrates Thomas and Matern point processes which can be tuned to produce patterns that exhibit distinct clusters of events.
+:::
+::::

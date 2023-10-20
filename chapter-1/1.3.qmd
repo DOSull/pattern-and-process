@@ -3,4 +3,12 @@ title: "1.3 Multiplicative Galton board"
 format: html
 ---
 
-[![](1.3-galtonBoard-Multiplicative.png)](1.3-galtonBoard-Multiplicative.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model simulates a multiplicative Galton board, which demonstrates the central limit theorem of statistics as it relates to a multiplicative process.
+:::: {.columns}
+::: {.column width=35%}
+[![](1.3-galtonBoard-Multiplicative.png)](1.3-galtonBoard-Multiplicative.nlogo)
+:::
+
+::: {.column width=65%}
+This model simulates a multiplicative Galton board, which demonstrates the central limit theorem of statistics as it relates to a multiplicative process.
+:::
+::::

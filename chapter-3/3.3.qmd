@@ -3,4 +3,12 @@ title: "3.3 Totalistic automata"
 format: html
 ---
 
-[![](3.3-totalistic_automata.png)](3.3-totalistic-automata.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states.
+:::: {.columns}
+::: {.column width=35%}
+[![](3.3-totalistic_automata.png)](3.3-totalistic-automata.nlogo)
+:::
+
+::: {.column width=65%}
+This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states.
+:::
+::::

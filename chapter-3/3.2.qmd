@@ -3,6 +3,14 @@ title: "3.2 Vicsek’s model of galaxy formation"
 format: html
 ---
 
-[![](3.2-vicsek-galaxy-formation.png)](3.2-vicsek-galaxy-formation.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of the model described in
+:::: {.columns}
+::: {.column width=35%}
+[![](3.2-vicsek-galaxy-formation.png)](3.2-vicsek-galaxy-formation.nlogo)
+:::
+
+::: {.column width=65%}
+This is an implementation of the model described in
 
 Vicsek T and AS Szalay. 1987. Fractal distribution of galaxies modeled by a cellular-automaton-type stochastic process. _Phys. Rev. Lett._ **58**, 2818-21.
+:::
+::::

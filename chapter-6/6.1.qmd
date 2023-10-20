@@ -3,4 +3,12 @@ title: "6.1 Game of life with different update timings"
 format: html
 ---
 
-[![](6.1-life-under-different-update-models.png)](6.1-life-under-different-update-models.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates how changing the sequencing of the game of life update rule leads to different outcomes.
+:::: {.columns}
+::: {.column width=35%}
+[![](6.1-life-under-different-update-models.png)](6.1-life-under-different-update-models.nlogo)
+:::
+
+::: {.column width=65%}
+This model demonstrates how changing the sequencing of the game of life update rule leads to different outcomes.
+:::
+::::

@@ -3,4 +3,12 @@ title: "3.9 Voter model with dispersal and mutation"
 format: html
 ---
 
-[![](3.9-voter-model-with-mutation.png)](3.9-voter-model-with-mutation.png){style="float:left; margin-right:10px; margin-bottom:5px;"} This model implements a simple voter model with two non-local processes. One admits succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice.
+:::: {.columns}
+::: {.column width=35%}
+[![](3.9-voter-model-with-mutation.png)](3.9-voter-model-with-mutation.png)
+:::
+
+::: {.column width=65%}
+This model implements a simple voter model with two non-local processes. One admits succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice.
+:::
+::::

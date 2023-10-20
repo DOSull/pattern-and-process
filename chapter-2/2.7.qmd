@@ -3,4 +3,12 @@ title: "2.7 The double Thomas point process"
 format: html
 ---
 
-[![](2.7-double-cluster.png)](2.7-doubleCluster.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of [Flügge et al](2.2.qmd).
+:::: {.columns}
+::: {.column width=35%}
+[![](2.7-double-cluster.png)](2.7-doubleCluster.nlogo)
+:::
+
+::: {.column width=65%}
+This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of [Flügge et al](2.2.qmd).
+:::
+::::

@@ -3,8 +3,16 @@ title: "5.21 Stark model of gullying"
 format: html
 ---
 
-[![](5.21-starkGullying.png)](5.21-starkGullying.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an approximate implementation of the model described in
+:::: {.columns}
+::: {.column width=35%}
+[![](5.21-starkGullying.png)](5.21-starkGullying.nlogo)
+:::
+
+::: {.column width=65%}
+This model is an approximate implementation of the model described in
 
 Stark CP. 1994. Cluster growth modeling of plateau erosion. _Journal of Geophysical Research_ **99** 13957-69.
 
 which combines invasion percolation, diffusion-limited aggregation and Eden growth to simulated gullying erosion at a plateau edge.
+:::
+::::

@@ -3,4 +3,12 @@ title: "5.1 Site percolation"
 format: html
 ---
 
-[![](5.1-sitePercolation.png)](5.1-sitePercolation.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates site percolation and displays the largest and spanning clusters (if the latter exists). 
+:::: {.columns}
+::: {.column width=35%}
+[![](5.1-sitePercolation.png)](5.1-sitePercolation.nlogo)
+:::
+
+::: {.column width=65%}
+This model demonstrates site percolation and displays the largest and spanning clusters (if the latter exists).
+:::
+::::

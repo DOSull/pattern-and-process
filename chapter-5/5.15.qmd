@@ -3,6 +3,14 @@ title: "5.15 Eden spread on a linear front with long-distance dispersal (LDD)"
 format: html
 ---
 
-[![](5.15-edenSingleOnLineLDD.png)](5.15-edenSingleOnLineLDD-using-R.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model shows how Eden spread along a front is dramatically altered by the occurrence of even relatively rare long-distance jumps. The behaviour of this model should be compared with that of the same model without such jumps.
+:::: {.columns}
+::: {.column width=35%}
+[![](5.15-edenSingleOnLineLDD.png)](5.15-edenSingleOnLineLDD-using-R.nlogo)
+:::
+
+::: {.column width=65%}
+This model shows how Eden spread along a front is dramatically altered by the occurrence of even relatively rare long-distance jumps. The behaviour of this model should be compared with that of the same model without such jumps.
 
 This model requires the R extension.
+:::
+::::

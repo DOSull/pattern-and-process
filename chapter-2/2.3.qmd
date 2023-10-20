@@ -3,4 +3,12 @@ title: "2.3 Complete spatial randomness for a point pattern"
 format: html
 ---
 
-[![](2.3-csr.png)](2.3-csr.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model simulates the independent random process or complete spatial randomness for a spatial point process.
+:::: {.columns}
+::: {.column width=35%}
+[![](2.3-csr.png)](2.3-csr.nlogo)
+:::
+
+::: {.column width=65%}
+This model simulates the independent random process or complete spatial randomness for a spatial point process.
+:::
+::::

@@ -3,4 +3,12 @@ title: "5.17 Neutral landscape generation by percolation processes"
 format: html
 ---
 
-[![](5.17-simpleNeutral.png)](5.17-simpleNeutral.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model implements a number of different percolation-based neutral landscapes.
+:::: {.columns}
+::: {.column width=35%}
+[![](5.17-simpleNeutral.png)](5.17-simpleNeutral.nlogo)
+:::
+
+::: {.column width=65%}
+This model implements a number of different percolation-based neutral landscapes.
+:::
+::::
