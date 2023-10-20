@@ -5,6 +5,6 @@ format: html
 
 [![](9.1-cale-model.png)](9.1-cale-model.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of the model described in
 
-Cale WG, Henebry GM and Yeakley JA 1989 Inferring process from pattern in natural communities. _BioScience_ **39** 600-605.
+Cale WG, GM Henebry and JA Yeakley. 1989. Inferring process from pattern in natural communities. _BioScience_ **39** 600-605.
 
 which demonstrates the challenges involved in inferring processes from patterns.

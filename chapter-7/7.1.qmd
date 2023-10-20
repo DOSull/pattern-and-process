@@ -5,4 +5,4 @@ format: html
 
 [![](7.1-dispersal-fragmentation.png)](7.1-dispersal-fragmentation.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of the model of the relationship between dispersal and fragmentation described in
 
-Ruckelshaus M, Hartway C and Kareiva PM 1997 Assessing the data requirements of spatially explicit dispersal models. _Conservation Biology_ **11** 1298-1306.
+Ruckelshaus M, C Hartway and PM Kareiva. 1997. Assessing the data requirements of spatially explicit dispersal models. _Conservation Biology_ **11** 1298-1306.

@@ -5,10 +5,10 @@ format: html
 
 [![](4.7-flocking.png)](4.7-flocking.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} A flocking model loosely based on ideas in
 
-Czirók A and Vicsek T 2000 Collective behavior of interacting self-propelled particles. _Physica A: Statistical Mechanics and its Applications_ **281** 17–29.
+Czirók A and T Vicsek. 2000. Collective behavior of interacting self-propelled particles. _Physica A: Statistical Mechanics and its Applications_ **281** 17–29.
 
-Grégoire G, Chaté H and Tu Y 2003 Moving and staying together without a leader. _Physica D: Nonlinear Phenomena_ **181** 157–70.
+Grégoire G, H Chaté H and Y Tu. 2003. Moving and staying together without a leader. _Physica D: Nonlinear Phenomena_ **181** 157–70.
 
-Vicsek T, Czirók, A. A, Ben-Jacob E, Cohen I and Sochet O 1995 Novel type of phase transition in a system of self-driven particles. _Physical Review Letters_ **75** 1226–29.
+Vicsek T, A Czirók, E Ben-Jacob, I Cohen and O Sochet. 1995. Novel type of phase transition in a system of self-driven particles. _Physical Review Letters_ **75** 1226–29.
 
 This model also includes various different implementations of the idea of ‘flock-mates’ which demonstrate the importance of basic spatial properties (in this case proximity or ‘neighbourhood’) in many spatial models.

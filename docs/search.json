@@ -1,199 +1,38 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About the authors",
-    "section": "",
-    "text": "David O’Sullivan is Professor of Geography and Geospatial Science at Te Herenga Waka - Victoria University of Wellington.\nGeorge Perry is Professor of Environmental Science at the University of Auckland."
-  },
-  {
     "objectID": "chapter-7/7.1.html",
     "href": "chapter-7/7.1.html",
     "title": "7.1 Ruckelshaus model of dispersal",
     "section": "",
-    "text": "This is an implementation of the model of the relationship between dispersal and fragmentation described in\nRuckelshaus M, Hartway C and Kareiva PM 1997 Assessing the data requirements of spatially explicit dispersal models. Conservation Biology 11 1298-1306."
+    "text": "This is an implementation of the model of the relationship between dispersal and fragmentation described in\nRuckelshaus M, C Hartway and PM Kareiva. 1997. Assessing the data requirements of spatially explicit dispersal models. Conservation Biology 11 1298-1306."
   },
   {
     "objectID": "chapter-7/index.html",
     "href": "chapter-7/index.html",
     "title": "Model uncertainty and evaluation",
     "section": "",
-    "text": "This chapter considers the wide range of methods available for the evaluation of models. The key idea underlying any such evaluation is to get to grips with the uncertainties inherent in any stochastic model of a spatial process – the range of variation in model outcomes, and how (if at all) we can make useful inferences from models about real-world processes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n7.1 Ruckelshaus model of dispersal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This chapter considers the wide range of methods available for the evaluation of models. The key idea underlying any such evaluation is to get to grips with the uncertainties inherent in any stochastic model of a spatial process – the range of variation in model outcomes, and how (if at all) we can make useful inferences from models about real-world processes.\n\n\n\n\n\n\n\n\n\n\n\n\n7.1 Ruckelshaus model of dispersal\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "chapter-3/3.2.html",
-    "href": "chapter-3/3.2.html",
-    "title": "3.2 Vicsek’s model of galaxy formation",
+    "objectID": "chapter-9/index.html",
+    "href": "chapter-9/index.html",
+    "title": "In conclusion",
     "section": "",
-    "text": "This is an implementation of the model described in\nVicsek T and Szalay AS 1987 Fractal distribution of galaxies modeled by a cellular-automaton-type stochastic process. Phys. Rev. Lett. 58, 2818-21."
+    "text": "We close with (one more!) model and some final thoughts on the usefulness of spatial simulation models and the model-building process.\n\n\n\n\n\n\n\n\n\n\n\n\n9.1 The difficulty of inferring process from pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "chapter-3/3.10.html",
-    "href": "chapter-3/3.10.html",
-    "title": "3.10 The Schelling model of segregation",
+    "objectID": "chapter-9/9.1.html",
+    "href": "chapter-9/9.1.html",
+    "title": "9.1 The difficulty of inferring process from pattern",
     "section": "",
-    "text": "This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically. The original papers on this model are:\nSchelling TC 1969 Models of segregation. American Economic Review 59 488–493.\nSchelling TC 1971 Dynamic models of segregation. Journal of Mathematical Sociology 1 143–186.\nSchelling TC 1978 Micromotives and Macrobehavior. Norton, New York."
+    "text": "This is an implementation of the model described in\nCale WG, GM Henebry and JA Yeakley. 1989. Inferring process from pattern in natural communities. BioScience 39 600-605.\nwhich demonstrates the challenges involved in inferring processes from patterns."
   },
   {
-    "objectID": "chapter-3/3.4.html",
-    "href": "chapter-3/3.4.html",
-    "title": "3.4 Basic two dimensional contact process",
+    "objectID": "chapter-8/index.html",
+    "href": "chapter-8/index.html",
+    "title": "Weaving it all together",
     "section": "",
-    "text": "This is an implementation of a basic contact process in two dimensions. The contact process is one of the simplest possible interacting particle systems. It is discussed in some detail in\nDurrett R and Levin SA 1994 Stochastic spatial models: a user’s guide to ecological applications. Philosophical Transactions of the Royal Society of London. Series B 343, 329-350."
-  },
-  {
-    "objectID": "chapter-3/3.7.html",
-    "href": "chapter-3/3.7.html",
-    "title": "3.7 Simple rock – scissors – paper IPS model",
-    "section": "",
-    "text": "This model is an implementation of a rock – scissors – paper succession model."
-  },
-  {
-    "objectID": "chapter-3/3.5.html",
-    "href": "chapter-3/3.5.html",
-    "title": "3.5 Competing contact processes",
-    "section": "",
-    "text": "This is an implementation of competing contact processes in two dimensions, including an option for one of the processes to spread over long distances. Models of this kind are discussed in\nDurrett R and Levin SA 1994b Stochastic spatial models: a user’s guide to ecological applications. Philosophical Transactions of the Royal Society of London. Series B 343, 329-350."
-  },
-  {
-    "objectID": "chapter-3/3.3.html",
-    "href": "chapter-3/3.3.html",
-    "title": "3.3 Totalistic automata",
-    "section": "",
-    "text": "This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states."
-  },
-  {
-    "objectID": "chapter-3/3.15.html",
-    "href": "chapter-3/3.15.html",
-    "title": "3.15 Nowak and May’s spatial prisoners’ dilemma",
-    "section": "",
-    "text": "This model is an implementation of the one described in\nNowak MA and May RM 1992 Evolutionary games and spatial chaos. Nature 359 826-29."
-  },
-  {
-    "objectID": "chapter-3/3.16.html",
-    "href": "chapter-3/3.16.html",
-    "title": "3.16 Evolutionary spatial prisoners’ dilemma",
-    "section": "",
-    "text": "This model demonstrates how different strategies in a two player game compete with one another in space, when players ‘evolve’ by changing their strategy to match successfully strategies either globally (the non-spatial case) or locally (the spatial case)."
-  },
-  {
-    "objectID": "chapter-3/index.html",
-    "href": "chapter-3/index.html",
-    "title": "Aggregation and segregation",
-    "section": "",
-    "text": "In this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Totalistic automata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.8 Simple voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.9 Voter model with dispersal and mutation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.10 The Schelling model of segregation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.11 Schelling model implemented as an IPS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.12 Iterative binary subdivision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.13 Centroidal Voronoi tessellation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.14 Spots and stripes: a discrete reaction-diffusion model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.15 Nowak and May’s spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.16 Evolutionary spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "chapter-3/3.9.html",
-    "href": "chapter-3/3.9.html",
-    "title": "3.9 Voter model with dispersal and mutation",
-    "section": "",
-    "text": "This model implements a simple voter model with two non-local processes. One admits succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice."
-  },
-  {
-    "objectID": "chapter-3/3.11.html",
-    "href": "chapter-3/3.11.html",
-    "title": "3.11 Schelling model implemented as an IPS",
-    "section": "",
-    "text": "This model demonstrates how the Schelling model can be implemented as an interacting particle system exclusion process."
-  },
-  {
-    "objectID": "chapter-3/3.14.html",
-    "href": "chapter-3/3.14.html",
-    "title": "3.14 Spots and stripes: a discrete reaction-diffusion model",
-    "section": "",
-    "text": "This model implements the cellular automaton model described by\nYoung DA 1984 A local activator-inhibitor model of vertebrate skin patterns. Mathematical Biosciences 72 51–58.\nwhich is itself a cellular automaton discretisation of Turing’s reaction-diffusion model of morphogenetics.\nTuring AM 1952 The chemical basis of morphogenesis. Philosophical Transactions of the Royal Society of London. Series B 237 37–72\nThe reaction-diffusion model is a fundamental process model across many scientific domains."
-  },
-  {
-    "objectID": "chapter-3/3.8.html",
-    "href": "chapter-3/3.8.html",
-    "title": "3.8 Simple voter model",
-    "section": "",
-    "text": "This model is an implementation of a simple voter model."
-  },
-  {
-    "objectID": "chapter-3/3.6.html",
-    "href": "chapter-3/3.6.html",
-    "title": "3.6 Grass – bush – trees IPS succession model",
-    "section": "",
-    "text": "This model is an implementation of the simple grass – bush – trees model of\nDurrett R and Swindle G 1991 Are there bushes in a forest? Stochastic Processes and their Applications 37 19–31."
-  },
-  {
-    "objectID": "chapter-3/3.1.html",
-    "href": "chapter-3/3.1.html",
-    "title": "3.1 Local averaging",
-    "section": "",
-    "text": "A model illustrating the smoothing or diffusion effect produced by iterative local averaging."
-  },
-  {
-    "objectID": "chapter-3/3.12.html",
-    "href": "chapter-3/3.12.html",
-    "title": "3.12 Iterative binary subdivision",
-    "section": "",
-    "text": "This model implements an interative subdivision process to construct a binary space partition which might be used to initialise neutral landscapes."
-  },
-  {
-    "objectID": "chapter-3/3.13.html",
-    "href": "chapter-3/3.13.html",
-    "title": "3.13 Centroidal Voronoi tessellation",
-    "section": "",
-    "text": "The Voronoi tessellation is an ‘all at once’ subdivision of a landscape based on proximity to a set of generating points. Many possible iterative processes based on the Voronoi tessellation are possible. This model demonstrates one example, the centroidal Voronoi tessellation where successive generations of generating points are placed at the centroids of the previous generation of Voronoi tiles. See\nDu Q, Faber V and Gunzburger M 1999 Centroidal Voronoi tessellations: applications and algorithms. SIAM Review 41 637–76."
-  },
-  {
-    "objectID": "chapter-2/2.4.html",
-    "href": "chapter-2/2.4.html",
-    "title": "2.4 The inhomogeneous point process",
-    "section": "",
-    "text": "This is model demonstrates an inhomogeneous Poisson point process in which the probability of a point event occurring varies from place to place across the area of interest."
-  },
-  {
-    "objectID": "chapter-2/2.5.html",
-    "href": "chapter-2/2.5.html",
-    "title": "2.5 A point process with inhibition",
-    "section": "",
-    "text": "This model demonstrates a point process with inhibition which prevents two events from being located nearer one another than some specified distances and can produce evenly-spaced or dispersed patterns."
-  },
-  {
-    "objectID": "chapter-2/2.3.html",
-    "href": "chapter-2/2.3.html",
-    "title": "2.3 Complete spatial randomness for a point pattern",
-    "section": "",
-    "text": "This model simulates the independent random process or complete spatial randomness for a spatial point process."
-  },
-  {
-    "objectID": "chapter-2/2.6.html",
-    "href": "chapter-2/2.6.html",
-    "title": "2.6 Point processes with clustering",
-    "section": "",
-    "text": "This model demonstrates Thomas and Matern point processes which can be tuned to produce patterns that exhibit distinct clusters of events."
-  },
-  {
-    "objectID": "chapter-2/2.7.html",
-    "href": "chapter-2/2.7.html",
-    "title": "2.7 The double Thomas point process",
-    "section": "",
-    "text": "This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of Flügge et al."
-  },
-  {
-    "objectID": "chapter-2/2.2.html",
-    "href": "chapter-2/2.2.html",
-    "title": "2.2 Flügge et al.’s spatial memory model",
-    "section": "",
-    "text": "This is an implementation of the model described in\nFlügge AJ, Olhede SC and Murrell D 2012. The memory of spatial patterns – changes in local abundance and aggregation in a tropical forest. Ecology 93, 1540-49.\nThis model also requires this NetLogo source file to run. You should place this file in the same folder as the model .nlogo file."
-  },
-  {
-    "objectID": "chapter-2/index.html",
-    "href": "chapter-2/index.html",
-    "title": "Pattern, process and scale",
-    "section": "",
-    "text": "This chapter focuses its attention on concepts central to the study of spatial models, pattern and process. A third important concept – scale – is also introduced, and the ways in which patterns and processes may change depending on the spatial and temporal scale at which analysis is conducted are considered. We explore these ideas by considering statistical point processes that produce static point patterns, and also show how such static models can easily transition to dynamic models similar to those considered in the remainder of the book.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.1 Scaling a pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 Flügge et al.’s spatial memory model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 Complete spatial randomness for a point pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 The inhomogeneous point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 A point process with inhibition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 Point processes with clustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 The double Thomas point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "chapter-2/2.1.html",
-    "href": "chapter-2/2.1.html",
-    "title": "2.1 Scaling a pattern",
-    "section": "",
-    "text": "This model demonstrates some of the challenges involved in rescaling patterns. To run this model you will also need this NetLogo source file and this text file."
+    "text": "Here we present a model that uses elements from all the ‘building-block’ models presented in Chapters 3, 4 and 5 to develop a more complicated and detailed model.\n\n\n\n\n\n\n\n\n\n\n\n\n8.1 leGUME (the Grand Unified Model of Everything)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-8/8.1.html",
@@ -203,88 +42,18 @@
     "text": "This is the model presented in Chapter 8 of the book, which combines elements from many of the building-block models discussed in earlier chapters.\nDetails of the model are in Chapter 8 and additional information not included in the Chapter can be found here."
   },
   {
-    "objectID": "chapter-8/index.html",
-    "href": "chapter-8/index.html",
-    "title": "Weaving it all together",
+    "objectID": "chapter-6/6.3.html",
+    "href": "chapter-6/6.3.html",
+    "title": "6.3 Implementing an event queue",
     "section": "",
-    "text": "Here we present a model that uses elements from all the ‘building-block’ models presented in Chapters 3, 4 and 5 to develop a more complicated and detailed model.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n8.1 leGUME (the Grand Unified Model of Everything)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This model demonstrates how an event-based model of time can lead to much faster operation of functionally identical models."
   },
   {
-    "objectID": "chapter-4/4.7.html",
-    "href": "chapter-4/4.7.html",
-    "title": "4.7 Flocking",
+    "objectID": "chapter-6/6.2.html",
+    "href": "chapter-6/6.2.html",
+    "title": "6.2 Majority rule automata under different update sequencing",
     "section": "",
-    "text": "A flocking model loosely based on ideas in\nCzirók A and Vicsek T 2000 Collective behavior of interacting self-propelled particles. Physica A: Statistical Mechanics and its Applications 281 17–29.\nGrégoire G, Chaté H and Tu Y 2003 Moving and staying together without a leader. Physica D: Nonlinear Phenomena 181 157–70.\nVicsek T, Czirók, A. A, Ben-Jacob E, Cohen I and Sochet O 1995 Novel type of phase transition in a system of self-driven particles. Physical Review Letters 75 1226–29.\nThis model also includes various different implementations of the idea of ‘flock-mates’ which demonstrate the importance of basic spatial properties (in this case proximity or ‘neighbourhood’) in many spatial models."
-  },
-  {
-    "objectID": "chapter-4/4.1.html",
-    "href": "chapter-4/4.1.html",
-    "title": "4.1 Random walks",
-    "section": "",
-    "text": "This model implements a number of variations on the random walk including the lattice-based walk, the simple random walk, walks with different distributions of step lengths, and correlated (direction) random walks."
-  },
-  {
-    "objectID": "chapter-4/4.6.html",
-    "href": "chapter-4/4.6.html",
-    "title": "4.6 The effect of environmental change on movement",
-    "section": "",
-    "text": "This model shows how a changing environment can drive the characteristics of observed movement."
-  },
-  {
-    "objectID": "chapter-4/4.2.html",
-    "href": "chapter-4/4.2.html",
-    "title": "4.2 The correlation length effect in random walks",
-    "section": "",
-    "text": "This model demonstrates how a correlated random walk, when consecutive steps are aggregated, reverts to a simple random walk without correlation but with a longer mean step length. This effect means that correlated random walks are ultimately diffusive (not super-diffusive) like simple random walks."
-  },
-  {
-    "objectID": "chapter-4/4.4.html",
-    "href": "chapter-4/4.4.html",
-    "title": "4.4 Area searched by a ‘Simon forager’",
-    "section": "",
-    "text": "Results from this model are used in figure 4.12 to demonstrate the relationship between movement tortuosity and search efficiency."
-  },
-  {
-    "objectID": "chapter-4/4.3.html",
-    "href": "chapter-4/4.3.html",
-    "title": "4.3 Simon’s satisficing forager model on a lattice",
-    "section": "",
-    "text": "This is a loose implementation of the model of resource search discussed in\nSimon HA 1956 Rational choice and the structure of the environment. Psychological Review 63 129-38.\nThe model demonstrates the importance of relative direct movement for search efficiency, and the importance of vision, in an environment where resources are relatively rare."
-  },
-  {
-    "objectID": "chapter-4/index.html",
-    "href": "chapter-4/index.html",
-    "title": "Random walks and mobile entities",
-    "section": "",
-    "text": "Random walks are one of the most basic stochastic processes, and furthermore provide an obvious starting point for models of mobile entities. A wide range of variations on the basic random walk idea are presented, followed by examples where walkers interact with an environment, often by searching for resources. When many mobile entities interact with one another, an interest variation is models of flocking behaviour.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.1 Random walks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 The correlation length effect in random walks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 Simon’s satisficing forager model on a lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 Area searched by a ‘Simon forager’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 Foraging in a heterogeneous environment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 The effect of environmental change on movement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.7 Flocking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "chapter-4/4.5.html",
-    "href": "chapter-4/4.5.html",
-    "title": "4.5 Foraging in a heterogeneous environment",
-    "section": "",
-    "text": "This model demonstrates how the distribution of resource availability in an environment can strongly influence the characteristics of movement motivated by exploitation of the resource. This model is loosely based on that described in\nBoyer D, Ramos-Fernández G, Miramontes O, Mateos JL, Cocho G, Larralde H, Ramos H and Rojas F 2006 Scale-free foraging by primates emerges from their interaction with a complex environment. Proceedings of the Royal Society. Series B 273 1743-50."
-  },
-  {
-    "objectID": "chapter-9/index.html",
-    "href": "chapter-9/index.html",
-    "title": "In conclusion",
-    "section": "",
-    "text": "We close with (one more!) model and some final thoughts on the usefulness of spatial simulation models and the model-building process.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n9.1 The difficulty of inferring process from pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "chapter-9/9.1.html",
-    "href": "chapter-9/9.1.html",
-    "title": "9.1 The difficulty of inferring process from pattern",
-    "section": "",
-    "text": "This is an implementation of the model described in\nCale WG, Henebry GM and Yeakley JA 1989 Inferring process from pattern in natural communities. BioScience 39 600-605.\nwhich demonstrates the challenges involved in inferring processes from patterns."
-  },
-  {
-    "objectID": "chapter-6/6.5.html",
-    "href": "chapter-6/6.5.html",
-    "title": "6.5 Voronoi tessellation based voter model",
-    "section": "",
-    "text": "This model demonstrates a voter model on a Voronoi tessellation. Again, the outcomes are not qualitatively different from those on a grid-based lattice."
+    "text": "This model demonstrates how changing the sequencing of the majority rule cellular automaton update rule leads to different outcomes."
   },
   {
     "objectID": "chapter-6/6.1.html",
@@ -292,6 +61,13 @@
     "title": "6.1 Game of life with different update timings",
     "section": "",
     "text": "This model demonstrates how changing the sequencing of the game of life update rule leads to different outcomes."
+  },
+  {
+    "objectID": "chapter-6/6.5.html",
+    "href": "chapter-6/6.5.html",
+    "title": "6.5 Voronoi tessellation based voter model",
+    "section": "",
+    "text": "This model demonstrates a voter model on a Voronoi tessellation. Again, the outcomes are not qualitatively different from those on a grid-based lattice."
   },
   {
     "objectID": "chapter-6/6.4.html",
@@ -312,25 +88,46 @@
     "href": "chapter-6/index.html",
     "title": "Representing time and space",
     "section": "",
-    "text": "In earlier chapters we have not considered how apparently simple choices about how to represent time (synchronously, asynchronously, or event-based?) and space (as a grid, as a network, as points, as polygons?) may affect both model outcomes and also affect the realism of the resulting models. In this chapter various aspects of these choices are given due consideration.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.1 Game of life with different update timings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.2 Majority rule automata under different update sequencing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.3 Implementing an event queue\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.4 Voter model on a hexagonal lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.5 Voronoi tessellation based voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.6 Game of life on an ‘infinite’ lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "In earlier chapters we have not considered how apparently simple choices about how to represent time (synchronously, asynchronously, or event-based?) and space (as a grid, as a network, as points, as polygons?) may affect both model outcomes and also affect the realism of the resulting models. In this chapter various aspects of these choices are given due consideration.\n\n\n\n\n\n\n\n\n\n\n\n\n6.1 Game of life with different update timings\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.2 Majority rule automata under different update sequencing\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.3 Implementing an event queue\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.4 Voter model on a hexagonal lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.5 Voronoi tessellation based voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n6.6 Game of life on an ‘infinite’ lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "chapter-6/6.3.html",
-    "href": "chapter-6/6.3.html",
-    "title": "6.3 Implementing an event queue",
+    "objectID": "chapter-1/1.1.html",
+    "href": "chapter-1/1.1.html",
+    "title": "1.1 Conway’s game of life",
     "section": "",
-    "text": "This model demonstrates how an event-based model of time can lead to much faster operation of functionally identical models."
+    "text": "A simple implementation of John Conway’s game of life cellular automaton.\nSee also the totalistic automata model, which allows a wide range of the cellular automata models of which life is just an example to be explored. Also of interest may be the effect on the life CA of changing how we represent time."
   },
   {
-    "objectID": "chapter-6/6.2.html",
-    "href": "chapter-6/6.2.html",
-    "title": "6.2 Majority rule automata under different update sequencing",
+    "objectID": "chapter-1/1.3.html",
+    "href": "chapter-1/1.3.html",
+    "title": "1.3 Multiplicative Galton board",
     "section": "",
-    "text": "This model demonstrates how changing the sequencing of the majority rule cellular automaton update rule leads to different outcomes."
+    "text": "This model simulates a multiplicative Galton board, which demonstrates the central limit theorem of statistics as it relates to a multiplicative process."
+  },
+  {
+    "objectID": "chapter-1/index.html",
+    "href": "chapter-1/index.html",
+    "title": "Spatial simulations: what? why? how?",
+    "section": "",
+    "text": "In this chapter we discuss the concept of a model, why simulation models in particular have become such an important scientific tool in recent decades, and finally the particular focus of the book on spatial simulation models. Along the way we consider the game of life cellular automaton as an example of behavioural complexity (and also as a very simple dynamic model), and also simple statistical models to illustrate the strengths and weaknesses of simple abstract models.\n\n\n\n\n\n\n\n\n\n\n\n\n1.1 Conway’s game of life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.2 Additive Galton board\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3 Multiplicative Galton board\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "chapter-1/1.2.html",
+    "href": "chapter-1/1.2.html",
+    "title": "1.2 Additive Galton board",
+    "section": "",
+    "text": "This model simulates a Galton board, which demonstrates both the central limit theorem of statistics as it relates to additive processes, and also the expected displacement associated with a 1-D random walk."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Spatial Simulation",
+    "section": "",
+    "text": "Across the sciences, simulation models are an important way to study systems inaccessible to experimental and observational methods, and also an essential complement to those approaches. The research literature is teeming with abstract simulation models whose presentation is mathematically demanding and requires deep knowledge of quantitative and computational methods. Furthermore, simulation models designed to represent specific systems and phenomena are often complicated, and, as a result, difficult to reconstruct from their descriptions in the literature. Spatial Simulation: Exploring Pattern & Process provides a practical and accessible account of dynamic spatial modelling, equipping readers with a sound conceptual foundation in the subject, and an introduction to the wide-ranging literature.\n\n\n\nThe book is organised around the idea that a small number of spatial processes underlie the wide variety of dynamic spatial models. Its central focus on three ‘building-blocks’ of dynamic spatial models — forces of attraction and segregation, individual mobile entities, and processes of spread — guides the reader to an understanding of the basis of many of the complicated models in the research literature. The three building-block models are presented in their simplest form and are progressively elaborated and related to real world process that can be represented using them. Introductory chapters cover essential background topics, particularly the relationships between pattern, process and spatiotemporal scale. Additional chapters consider how time and space can be represented in more complicated models, and methods for the analysis and evaluation of models. Finally, the three building-block models are woven together in a more elaborate example to show how a complicated model can be assembled from relatively simple components."
+  },
+  {
+    "objectID": "index.html#exploring-pattern-process",
+    "href": "index.html#exploring-pattern-process",
     "title": "Spatial Simulation",
     "section": "",
     "text": "Across the sciences, simulation models are an important way to study systems inaccessible to experimental and observational methods, and also an essential complement to those approaches. The research literature is teeming with abstract simulation models whose presentation is mathematically demanding and requires deep knowledge of quantitative and computational methods. Furthermore, simulation models designed to represent specific systems and phenomena are often complicated, and, as a result, difficult to reconstruct from their descriptions in the literature. Spatial Simulation: Exploring Pattern & Process provides a practical and accessible account of dynamic spatial modelling, equipping readers with a sound conceptual foundation in the subject, and an introduction to the wide-ranging literature.\n\n\n\nThe book is organised around the idea that a small number of spatial processes underlie the wide variety of dynamic spatial models. Its central focus on three ‘building-blocks’ of dynamic spatial models — forces of attraction and segregation, individual mobile entities, and processes of spread — guides the reader to an understanding of the basis of many of the complicated models in the research literature. The three building-block models are presented in their simplest form and are progressively elaborated and related to real world process that can be represented using them. Introductory chapters cover essential background topics, particularly the relationships between pattern, process and spatiotemporal scale. Additional chapters consider how time and space can be represented in more complicated models, and methods for the analysis and evaluation of models. Finally, the three building-block models are woven together in a more elaborate example to show how a complicated model can be assembled from relatively simple components."
@@ -350,123 +147,249 @@
     "text": "The aim of the book\nThis book encourages readers to develop intuition for the abstract types of model that are likely to be appropriate for application in any specific context. Spatial Simulation: Exploring Pattern & Process will be of interest to undergraduate and graduate students taking courses in environmental, social, ecological and geographical disciplines. Researchers and professionals who require a non-specialist introduction will also find this book an invaluable guide to dynamic spatial simulation.\nThe book is published by Wiley and is available now!"
   },
   {
-    "objectID": "chapter-5/5.5.html",
-    "href": "chapter-5/5.5.html",
-    "title": "5.5 Invasion percolation",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About the authors",
     "section": "",
-    "text": "This model demonstrates invasion percolation in a landscape with randomly assigned resistance values."
+    "text": "David O’Sullivan is (just about still) Professor of Geography and Geospatial Science at Te Herenga Waka - Victoria University of Wellington.\nGeorge Perry is Professor of Environmental Science at the University of Auckland."
   },
   {
-    "objectID": "chapter-5/5.9.html",
-    "href": "chapter-5/5.9.html",
-    "title": "5.9 The Eden tree",
+    "objectID": "chapter-4/4.1.html",
+    "href": "chapter-4/4.1.html",
+    "title": "4.1 Random walks",
     "section": "",
-    "text": "This model is an implementation of an Eden tree growth process as discussed in\nDhar D and Ramaswamy R 1985 Classical diffusion on Eden trees. Physical Review Letters 54 1346–1349."
+    "text": "This model implements a number of variations on the random walk including the lattice-based walk, the simple random walk, walks with different distributions of step lengths, and correlated (direction) random walks."
   },
   {
-    "objectID": "chapter-5/5.15.html",
-    "href": "chapter-5/5.15.html",
-    "title": "5.15 Eden spread on a linear front with long-distance dispersal (LDD)",
+    "objectID": "chapter-4/4.2.html",
+    "href": "chapter-4/4.2.html",
+    "title": "4.2 The correlation length effect in random walks",
     "section": "",
-    "text": "This model shows how Eden spread along a front is dramatically altered by the occurrence of even relatively rare long-distance jumps. The behaviour of this model should be compared with that of the same model without such jumps.\nThis model requires the R extension."
+    "text": "This model demonstrates how a correlated random walk, when consecutive steps are aggregated, reverts to a simple random walk without correlation but with a longer mean step length. This effect means that correlated random walks are ultimately diffusive (not super-diffusive) like simple random walks."
   },
   {
-    "objectID": "chapter-5/5.18.html",
-    "href": "chapter-5/5.18.html",
-    "title": "5.18 The SIMMAP neutral landscape model",
+    "objectID": "chapter-4/4.3.html",
+    "href": "chapter-4/4.3.html",
+    "title": "4.3 Simon’s satisficing forager model on a lattice",
     "section": "",
-    "text": "This model implements the SIMMAP process for generation of neutral landscapes as described in\nSaura S and Martinez-Milan J 2000 Landscape pattern simulation with a modified random clusters method. Landscape Ecology 15 661-677.\nThis model also requires this text file to configure the relative proportions of each class of landscape that it will produce. This file should not be renamed, and should be placed in the same folder as the model file.\nThe first line of this file indicates the number of different landscape classes required. Subsequent lines indicate for each required class the desired relative proportion of the landscape that it should occupy. If the model’s percolation parameter is set too high, then it may be very difficult for the model to produce landscapes with proportions close to the requested levels."
+    "text": "This is a loose implementation of the model of resource search discussed in\nSimon HA. 1956. Rational choice and the structure of the environment. Psychological Review 63 129-38.\nThe model demonstrates the importance of relative direct movement for search efficiency, and the importance of vision, in an environment where resources are relatively rare."
   },
   {
-    "objectID": "chapter-5/5.6.html",
-    "href": "chapter-5/5.6.html",
-    "title": "5.6 Invasion percolation drainage basin model",
+    "objectID": "chapter-4/4.7.html",
+    "href": "chapter-4/4.7.html",
+    "title": "4.7 Flocking",
     "section": "",
-    "text": "This model is an implementation of the drainage model presented in\nStark CP 1991 An invasion percolation model of drainage network evolution. Nature 352 423–425."
+    "text": "A flocking model loosely based on ideas in\nCzirók A and T Vicsek. 2000. Collective behavior of interacting self-propelled particles. Physica A: Statistical Mechanics and its Applications 281 17–29.\nGrégoire G, H Chaté H and Y Tu. 2003. Moving and staying together without a leader. Physica D: Nonlinear Phenomena 181 157–70.\nVicsek T, A Czirók, E Ben-Jacob, I Cohen and O Sochet. 1995. Novel type of phase transition in a system of self-driven particles. Physical Review Letters 75 1226–29.\nThis model also includes various different implementations of the idea of ‘flock-mates’ which demonstrate the importance of basic spatial properties (in this case proximity or ‘neighbourhood’) in many spatial models."
   },
   {
-    "objectID": "chapter-5/5.12.html",
-    "href": "chapter-5/5.12.html",
-    "title": "5.12 Eden growth a linear invasion front",
+    "objectID": "chapter-4/4.6.html",
+    "href": "chapter-4/4.6.html",
+    "title": "4.6 The effect of environmental change on movement",
     "section": "",
-    "text": "This model draws on ideas discussed in\nEdwards SF and Wilkinson DR 1982 The surface statistics of a granular aggregate. Proceedings of the Royal Society of London. Series A 381(1780) 17-31.\nand allows you to explore the rate of progress made by an Eden invasion process advancing along a linear ‘front’."
+    "text": "This model shows how a changing environment can drive the characteristics of observed movement."
   },
   {
-    "objectID": "chapter-5/5.14.html",
-    "href": "chapter-5/5.14.html",
-    "title": "5.14 Benguigui’s Eden process based model of urban growth",
+    "objectID": "chapter-4/4.4.html",
+    "href": "chapter-4/4.4.html",
+    "title": "4.4 Area searched by a ‘Simon forager’",
     "section": "",
-    "text": "This model simulates a version of Benguigui’s highly abstract model of urban growth, as discussed in\nBenguigui L 1995 A new aggregation model. Application to town growth. Physica A: Statistical Mechanics and its Applications 219 13–26.\nBenguigui L 1998 Aggregation models for town growth. Philosophical Magazine Part B 77 1269–75."
+    "text": "Results from this model are used in figure 4.12 to demonstrate the relationship between movement tortuosity and search efficiency."
   },
   {
-    "objectID": "chapter-5/5.4.html",
-    "href": "chapter-5/5.4.html",
-    "title": "5.4 The percolation backbone",
+    "objectID": "chapter-4/4.5.html",
+    "href": "chapter-4/4.5.html",
+    "title": "4.5 Foraging in a heterogeneous environment",
     "section": "",
-    "text": "This model demonstrates the identification of the backbone of a spanning cluster in site percolation. See\nHerrmann HJ, Hong DC and Stanley HE 1984 Backbone and elastic backbone of percolation clusters obtained by the new method of ‘burning’. Journal of Physics A: Mathematical and General 17 L261–L266."
+    "text": "This model demonstrates how the distribution of resource availability in an environment can strongly influence the characteristics of movement motivated by exploitation of the resource. This model is loosely based on that described in\nBoyer D, G Ramos-Fernández, O Miramontes, JL Mateos, G Cocho, H Larralde, H Ramos and F Rojas. 2006. Scale-free foraging by primates emerges from their interaction with a complex environment. Proceedings of the Royal Society. Series B 273 1743-50."
   },
   {
-    "objectID": "chapter-5/5.10.html",
-    "href": "chapter-5/5.10.html",
-    "title": "5.10 Eden ‘tip’ model",
+    "objectID": "chapter-4/index.html",
+    "href": "chapter-4/index.html",
+    "title": "Random walks and mobile entities",
     "section": "",
-    "text": "This model is an implementation of the Eden ‘tip’ growth process described in\nSawada Y, Ohta S, Yamazaki M and Honjo H 1982 Self-similarity and a phase-transition-like behavior of a random growing structure governed by a nonequilibrium parameter. Physics Review A 26 3557-3563."
+    "text": "Random walks are one of the most basic stochastic processes, and furthermore provide an obvious starting point for models of mobile entities. A wide range of variations on the basic random walk idea are presented, followed by examples where walkers interact with an environment, often by searching for resources. When many mobile entities interact with one another, an interest variation is models of flocking behaviour.\n\n\n\n\n\n\n\n\n\n\n\n\n4.1 Random walks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.2 The correlation length effect in random walks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.3 Simon’s satisficing forager model on a lattice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.4 Area searched by a ‘Simon forager’\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.5 Foraging in a heterogeneous environment\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.6 The effect of environmental change on movement\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4.7 Flocking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "chapter-5/5.19.html",
-    "href": "chapter-5/5.19.html",
-    "title": "5.19 The ‘sand-pile’ forest fire model",
+    "objectID": "chapter-3/3.4.html",
+    "href": "chapter-3/3.4.html",
+    "title": "3.4 Basic two dimensional contact process",
     "section": "",
-    "text": "This model is an implementation of a simple forest fire model with a primary focus on the size distribution of the fires that are produced. It is based on the model described in\nBak P and Chen K 1990 A forest-fire model and some thoughts on turbulence. Physics Letters A 147 297–300."
+    "text": "This is an implementation of a basic contact process in two dimensions. The contact process is one of the simplest possible interacting particle systems. It is discussed in some detail in\nDurrett R and SA Levin. 1994. Stochastic spatial models: a user’s guide to ecological applications. Philosophical Transactions of the Royal Society of London. Series B 343, 329-350."
   },
   {
-    "objectID": "chapter-5/5.21.html",
-    "href": "chapter-5/5.21.html",
-    "title": "5.21 Stark model of gullying",
+    "objectID": "chapter-3/3.5.html",
+    "href": "chapter-3/3.5.html",
+    "title": "3.5 Competing contact processes",
     "section": "",
-    "text": "This model is an approximate implementation of the model described in\nStark CP 1994 Cluster growth modeling of plateau erosion. Journal of Geophysical Research 99 13957-69.\nwhich combines invasion percolation, diffusion-limited aggregation and Eden growth to simulated gullying erosion at a plateau edge."
+    "text": "This is an implementation of competing contact processes in two dimensions, including an option for one of the processes to spread over long distances. Models of this kind are discussed in\nDurrett R and SA Levin. 1994. Stochastic spatial models: a user’s guide to ecological applications. Philosophical Transactions of the Royal Society of London. Series B 343, 329-350."
   },
   {
-    "objectID": "chapter-5/index.html",
-    "href": "chapter-5/index.html",
-    "title": "Percolation and growth",
+    "objectID": "chapter-3/3.7.html",
+    "href": "chapter-3/3.7.html",
+    "title": "3.7 Simple rock – scissors – paper IPS model",
     "section": "",
-    "text": "The models in this chapter provide a basis for both models of landscape pattern, and for diffusive spread through such landscapes. The underlying basis of all these models is percolation which partitions a space into either occupied or unoccupied sites either all at once, or sequentially according to some simple rule, to yield a wide variety of models of growth processes.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.1 Site percolation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.2 The ant in the labyrinth\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.3 Site percolation forest fire model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.4 The percolation backbone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.5 Invasion percolation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.6 Invasion percolation drainage basin model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.7 Simple Eden growth model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.8 Inverted Eden process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.9 The Eden tree\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.10 Eden ‘tip’ model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.11 Williams-Bjerknes Eden growth model for abnormal cells\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.12 Eden growth a linear invasion front\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.13 Eden epidemic process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.14 Benguigui’s Eden process based model of urban growth\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.15 Eden spread on a linear front with long-distance dispersal (LDD)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.16 Diffusion limited aggregation (DLA)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.17 Neutral landscape generation by percolation processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.18 The SIMMAP neutral landscape model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.19 The ‘sand-pile’ forest fire model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.20 Forest fire model with age-related flammability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.21 Stark model of gullying\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This model is an implementation of a rock – scissors – paper succession model."
   },
   {
-    "objectID": "chapter-5/5.7.html",
-    "href": "chapter-5/5.7.html",
-    "title": "5.7 Simple Eden growth model",
+    "objectID": "chapter-3/3.6.html",
+    "href": "chapter-3/3.6.html",
+    "title": "3.6 Grass – bush – trees IPS succession model",
     "section": "",
-    "text": "This model is an implementation of the basic Eden growth process as originally presented in\nEden M 1961 A two-dimensional growth process, 4th Berkeley Symposium on Mathematical Statistics and Probability, pp. 223–239, University of California Press, Berkeley, CA."
+    "text": "This model is an implementation of the simple grass – bush – trees model of\nDurrett R and G Swindle. 1991. Are there bushes in a forest? Stochastic Processes and their Applications 37 19–31."
   },
   {
-    "objectID": "chapter-5/5.1.html",
-    "href": "chapter-5/5.1.html",
-    "title": "5.1 Site percolation",
+    "objectID": "chapter-3/3.2.html",
+    "href": "chapter-3/3.2.html",
+    "title": "3.2 Vicsek’s model of galaxy formation",
     "section": "",
-    "text": "This model demonstrates site percolation and displays the largest and spanning clusters (if the latter exists)."
+    "text": "This is an implementation of the model described in\nVicsek T and AS Szalay. 1987. Fractal distribution of galaxies modeled by a cellular-automaton-type stochastic process. Phys. Rev. Lett. 58, 2818-21."
+  },
+  {
+    "objectID": "chapter-3/3.3.html",
+    "href": "chapter-3/3.3.html",
+    "title": "3.3 Totalistic automata",
+    "section": "",
+    "text": "This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states."
+  },
+  {
+    "objectID": "chapter-3/3.1.html",
+    "href": "chapter-3/3.1.html",
+    "title": "3.1 Local averaging",
+    "section": "",
+    "text": "A model illustrating the smoothing or diffusion effect produced by iterative local averaging."
+  },
+  {
+    "objectID": "chapter-3/index.html",
+    "href": "chapter-3/index.html",
+    "title": "Aggregation and segregation",
+    "section": "",
+    "text": "In this chapter a variety of models that produce aggregated patterns are considered. The common thread is that a simple process operating locally scales up in each case to produce clustered aggregate outcomes that are often intricately structured. Processes considered include local-averaging, various cellular automata processes, contact processes, and succession models. The well-known Schelling model of residential segregation provides another example. To some extent all of these are instances of an underlying reaction-diffusion process. An alternative to these bottom-up models, is a top-down subdivision or Voronoi process.\n\n\n\n\n\n\n\n\n\n\n\n\n3.1 Local averaging\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.2 Vicsek’s model of galaxy formation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.3 Totalistic automata\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.4 Basic two dimensional contact process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.5 Competing contact processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.6 Grass – bush – trees IPS succession model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 Simple rock – scissors – paper IPS model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.8 Simple voter model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.9 Voter model with dispersal and mutation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.10 The Schelling model of segregation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.11 Schelling model implemented as an IPS\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.12 Iterative binary subdivision\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.13 Centroidal Voronoi tessellation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.14 Spots and stripes: a discrete reaction-diffusion model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.15 Nowak and May’s spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.16 Evolutionary spatial prisoners’ dilemma\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "chapter-3/3.8.html",
+    "href": "chapter-3/3.8.html",
+    "title": "3.8 Simple voter model",
+    "section": "",
+    "text": "This model is an implementation of a simple voter model."
+  },
+  {
+    "objectID": "chapter-3/3.9.html",
+    "href": "chapter-3/3.9.html",
+    "title": "3.9 Voter model with dispersal and mutation",
+    "section": "",
+    "text": "This model implements a simple voter model with two non-local processes. One admits succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice."
+  },
+  {
+    "objectID": "chapter-3/3.10.html",
+    "href": "chapter-3/3.10.html",
+    "title": "3.10 The Schelling model of segregation",
+    "section": "",
+    "text": "This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically. The original papers on this model are:\nSchelling TC. 1969. Models of segregation. American Economic Review 59 488–493.\nSchelling TC. 1971. Dynamic models of segregation. Journal of Mathematical Sociology 1 143–186.\nSchelling TC. 1978. Micromotives and Macrobehavior. Norton, New York.\nIt has more recently been argued that the model should be more properly referred to as the Sakoda-Schelling model. See:\nHegselmann R. 2017. Thomas C. Schelling and James M. Sakoda: The intellectual, technical, and social history of a model. Journal of Artificial Societies and Social Simulation 20(3).\nSakoda JM. 1971. The checkerboard model of social interaction. Journal of Mathematical Sociology 1(1): 119–132."
+  },
+  {
+    "objectID": "chapter-3/3.11.html",
+    "href": "chapter-3/3.11.html",
+    "title": "3.11 Schelling model implemented as an IPS",
+    "section": "",
+    "text": "This model demonstrates how the Schelling model can be implemented as an interacting particle system exclusion process."
+  },
+  {
+    "objectID": "chapter-3/3.13.html",
+    "href": "chapter-3/3.13.html",
+    "title": "3.13 Centroidal Voronoi tessellation",
+    "section": "",
+    "text": "The Voronoi tessellation is an ‘all at once’ subdivision of a landscape based on proximity to a set of generating points. Many possible iterative processes based on the Voronoi tessellation are possible. This model demonstrates one example, the centroidal Voronoi tessellation where successive generations of generating points are placed at the centroids of the previous generation of Voronoi tiles. See\nDu Q, V Faber and M Gunzburger. 1999. Centroidal Voronoi tessellations: applications and algorithms. SIAM Review 41 637–76."
+  },
+  {
+    "objectID": "chapter-3/3.12.html",
+    "href": "chapter-3/3.12.html",
+    "title": "3.12 Iterative binary subdivision",
+    "section": "",
+    "text": "This model implements an interative subdivision process to construct a binary space partition which might be used to initialise neutral landscapes."
+  },
+  {
+    "objectID": "chapter-3/3.16.html",
+    "href": "chapter-3/3.16.html",
+    "title": "3.16 Evolutionary spatial prisoners’ dilemma",
+    "section": "",
+    "text": "This model demonstrates how different strategies in a two player game compete with one another in space, when players ‘evolve’ by changing their strategy to match successfully strategies either globally (the non-spatial case) or locally (the spatial case)."
+  },
+  {
+    "objectID": "chapter-3/3.15.html",
+    "href": "chapter-3/3.15.html",
+    "title": "3.15 Nowak and May’s spatial prisoners’ dilemma",
+    "section": "",
+    "text": "This model is an implementation of the one described in\nNowak MA and RM May. 1992. Evolutionary games and spatial chaos. Nature 359 826-29."
+  },
+  {
+    "objectID": "chapter-3/3.14.html",
+    "href": "chapter-3/3.14.html",
+    "title": "3.14 Spots and stripes: a discrete reaction-diffusion model",
+    "section": "",
+    "text": "This model implements the cellular automaton model described by\nYoung DA. 1984. A local activator-inhibitor model of vertebrate skin patterns. Mathematical Biosciences 72 51–58.\nwhich is itself a cellular automaton discretisation of Turing’s reaction-diffusion model of morphogenetics.\nTuring AM. 1952.. The chemical basis of morphogenesis. Philosophical Transactions of the Royal Society of London. Series B 237 37–72\nThe reaction-diffusion model is a fundamental process model across many scientific domains."
+  },
+  {
+    "objectID": "chapter-2/2.7.html",
+    "href": "chapter-2/2.7.html",
+    "title": "2.7 The double Thomas point process",
+    "section": "",
+    "text": "This model demonstrates a double Thomas point process where consecutive ‘generations’ of point events originate from the location of ‘parent’ events. Although the process is not intended as a dynamic model, it clearly shows how we can progress from a static to a dynamic model, similar to that of Flügge et al."
+  },
+  {
+    "objectID": "chapter-2/2.6.html",
+    "href": "chapter-2/2.6.html",
+    "title": "2.6 Point processes with clustering",
+    "section": "",
+    "text": "This model demonstrates Thomas and Matern point processes which can be tuned to produce patterns that exhibit distinct clusters of events."
+  },
+  {
+    "objectID": "chapter-2/2.4.html",
+    "href": "chapter-2/2.4.html",
+    "title": "2.4 The inhomogeneous point process",
+    "section": "",
+    "text": "This is model demonstrates an inhomogeneous Poisson point process in which the probability of a point event occurring varies from place to place across the area of interest."
+  },
+  {
+    "objectID": "chapter-2/2.5.html",
+    "href": "chapter-2/2.5.html",
+    "title": "2.5 A point process with inhibition",
+    "section": "",
+    "text": "This model demonstrates a point process with inhibition which prevents two events from being located nearer one another than some specified distances and can produce evenly-spaced or dispersed patterns."
+  },
+  {
+    "objectID": "chapter-2/2.1.html",
+    "href": "chapter-2/2.1.html",
+    "title": "2.1 Scaling a pattern",
+    "section": "",
+    "text": "This model demonstrates some of the challenges involved in rescaling patterns. To run this model you will also need this NetLogo source file and this text file."
+  },
+  {
+    "objectID": "chapter-2/2.2.html",
+    "href": "chapter-2/2.2.html",
+    "title": "2.2 Flügge et al.’s spatial memory model",
+    "section": "",
+    "text": "This is an implementation of the model described in\nFlügge AJ, SC Olhede and D Murrell. 2012. The memory of spatial patterns – changes in local abundance and aggregation in a tropical forest. Ecology 93, 1540-49.\nThis model also requires this NetLogo source file to run. You should place this file in the same folder as the model .nlogo file."
+  },
+  {
+    "objectID": "chapter-2/2.3.html",
+    "href": "chapter-2/2.3.html",
+    "title": "2.3 Complete spatial randomness for a point pattern",
+    "section": "",
+    "text": "This model simulates the independent random process or complete spatial randomness for a spatial point process."
+  },
+  {
+    "objectID": "chapter-2/index.html",
+    "href": "chapter-2/index.html",
+    "title": "Pattern, process and scale",
+    "section": "",
+    "text": "This chapter focuses its attention on concepts central to the study of spatial models, pattern and process. A third important concept – scale – is also introduced, and the ways in which patterns and processes may change depending on the spatial and temporal scale at which analysis is conducted are considered. We explore these ideas by considering statistical point processes that produce static point patterns, and also show how such static models can easily transition to dynamic models similar to those considered in the remainder of the book.\n\n\n\n\n\n\n\n\n\n\n\n\n2.1 Scaling a pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.2 Flügge et al.’s spatial memory model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3 Complete spatial randomness for a point pattern\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.4 The inhomogeneous point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.5 A point process with inhibition\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.6 Point processes with clustering\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.7 The double Thomas point process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "chapter-5/5.2.html",
     "href": "chapter-5/5.2.html",
     "title": "5.2 The ant in the labyrinth",
     "section": "",
-    "text": "This is an implementation of the classic ant in the labyrinth problem, discussed in\nde Gennes PG 1976 La percolation: un concept unificateur. La Recerche 7 72–82."
-  },
-  {
-    "objectID": "chapter-5/5.17.html",
-    "href": "chapter-5/5.17.html",
-    "title": "5.17 Neutral landscape generation by percolation processes",
-    "section": "",
-    "text": "This model implements a number of different percolation-based neutral landscapes."
-  },
-  {
-    "objectID": "chapter-5/5.13.html",
-    "href": "chapter-5/5.13.html",
-    "title": "5.13 Eden epidemic process",
-    "section": "",
-    "text": "This model simulates an Eden epidemic process as described in\nAlexandrowicz Z 1980 Critically branched chains and percolation clusters. Physics Letters A 80 284–286."
+    "text": "This is an implementation of the classic ant in the labyrinth problem, discussed in\nde Gennes PG. 1976. La percolation: un concept unificateur. La Recerche 7 72–82."
   },
   {
     "objectID": "chapter-5/5.3.html",
@@ -476,66 +399,143 @@
     "text": "A simple site-percolation based model of a forest-fire (or any other contagious process)."
   },
   {
+    "objectID": "chapter-5/5.1.html",
+    "href": "chapter-5/5.1.html",
+    "title": "5.1 Site percolation",
+    "section": "",
+    "text": "This model demonstrates site percolation and displays the largest and spanning clusters (if the latter exists)."
+  },
+  {
+    "objectID": "chapter-5/5.18.html",
+    "href": "chapter-5/5.18.html",
+    "title": "5.18 The SIMMAP neutral landscape model",
+    "section": "",
+    "text": "This model implements the SIMMAP process for generation of neutral landscapes as described in\nSaura S and J Martinez-Milan. 2000. Landscape pattern simulation with a modified random clusters method. Landscape Ecology 15 661-677.\nThis model also requires this text file to configure the relative proportions of each class of landscape that it will produce. This file should not be renamed, and should be placed in the same folder as the model file.\nThe first line of this file indicates the number of different landscape classes required. Subsequent lines indicate for each required class the desired relative proportion of the landscape that it should occupy. If the model’s percolation parameter is set too high, then it may be very difficult for the model to produce landscapes with proportions close to the requested levels."
+  },
+  {
+    "objectID": "chapter-5/5.19.html",
+    "href": "chapter-5/5.19.html",
+    "title": "5.19 The ‘sand-pile’ forest fire model",
+    "section": "",
+    "text": "This model is an implementation of a simple forest fire model with a primary focus on the size distribution of the fires that are produced. It is based on the model described in\nBak P and K Chen. 1990 A forest-fire model and some thoughts on turbulence. Physics Letters A 147 297–300."
+  },
+  {
+    "objectID": "chapter-5/5.21.html",
+    "href": "chapter-5/5.21.html",
+    "title": "5.21 Stark model of gullying",
+    "section": "",
+    "text": "This model is an approximate implementation of the model described in\nStark CP. 1994. Cluster growth modeling of plateau erosion. Journal of Geophysical Research 99 13957-69.\nwhich combines invasion percolation, diffusion-limited aggregation and Eden growth to simulated gullying erosion at a plateau edge."
+  },
+  {
+    "objectID": "chapter-5/5.4.html",
+    "href": "chapter-5/5.4.html",
+    "title": "5.4 The percolation backbone",
+    "section": "",
+    "text": "This model demonstrates the identification of the backbone of a spanning cluster in site percolation. See\nHerrmann HJ, DC Hong DC and HE Stanley. 1984. Backbone and elastic backbone of percolation clusters obtained by the new method of ‘burning’. Journal of Physics A: Mathematical and General 17 L261–L266."
+  },
+  {
+    "objectID": "chapter-5/5.5.html",
+    "href": "chapter-5/5.5.html",
+    "title": "5.5 Invasion percolation",
+    "section": "",
+    "text": "This model demonstrates invasion percolation in a landscape with randomly assigned resistance values."
+  },
+  {
     "objectID": "chapter-5/5.20.html",
     "href": "chapter-5/5.20.html",
     "title": "5.20 Forest fire model with age-related flammability",
     "section": "",
-    "text": "This model is a forest fire model where the flammability of sites changes with the time elapsed since the site last burned. The focus of this model is on the relationship between the ‘flammability function’ and the resulting distribution of fire sizes, and on how ‘memory’ in the landscapes contributes to the overall patterns that result.\nThis model draws on ideas in\nKitzberger T, Araoz E, Gowda JN, Mermoz M and Morales J 2012 Decreases in fire spread probability with forest age promotes alternative community states, reduced resilience to climate variability and large fire regime shifts. Ecosystems 15 97-112.\nPeterson GD 2002 Contagious disturbance, ecological memory, and the emergence of landscape pattern. Ecosystems 5 329-338."
+    "text": "This model is a forest fire model where the flammability of sites changes with the time elapsed since the site last burned. The focus of this model is on the relationship between the ‘flammability function’ and the resulting distribution of fire sizes, and on how ‘memory’ in the landscapes contributes to the overall patterns that result.\nThis model draws on ideas in\nKitzberger T, E Araoz, JN Gowda, M Mermoz and J Morales. 2012. Decreases in fire spread probability with forest age promotes alternative community states, reduced resilience to climate variability and large fire regime shifts. Ecosystems 15 97-112.\nPeterson GD. 2002. Contagious disturbance, ecological memory, and the emergence of landscape pattern. Ecosystems 5 329-338."
+  },
+  {
+    "objectID": "chapter-5/5.7.html",
+    "href": "chapter-5/5.7.html",
+    "title": "5.7 Simple Eden growth model",
+    "section": "",
+    "text": "This model is an implementation of the basic Eden growth process as originally presented in\nEden M. 1961. A two-dimensional growth process, 4th Berkeley Symposium on Mathematical Statistics and Probability, pp. 223–239, University of California Press, Berkeley, CA."
+  },
+  {
+    "objectID": "chapter-5/index.html",
+    "href": "chapter-5/index.html",
+    "title": "Percolation and growth",
+    "section": "",
+    "text": "The models in this chapter provide a basis for both models of landscape pattern, and for diffusive spread through such landscapes. The underlying basis of all these models is percolation which partitions a space into either occupied or unoccupied sites either all at once, or sequentially according to some simple rule, to yield a wide variety of models of growth processes.\n\n\n\n\n\n\n\n\n\n\n\n\n5.1 Site percolation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.2 The ant in the labyrinth\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.3 Site percolation forest fire model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.4 The percolation backbone\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.5 Invasion percolation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.6 Invasion percolation drainage basin model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.7 Simple Eden growth model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.8 Inverted Eden process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.9 The Eden tree\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.10 Eden ‘tip’ model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.11 Williams-Bjerknes Eden growth model for abnormal cells\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.12 Eden growth a linear invasion front\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.13 Eden epidemic process\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.14 Benguigui’s Eden process based model of urban growth\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.15 Eden spread on a linear front with long-distance dispersal (LDD)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.16 Diffusion limited aggregation (DLA)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.17 Neutral landscape generation by percolation processes\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.18 The SIMMAP neutral landscape model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.19 The ‘sand-pile’ forest fire model\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.20 Forest fire model with age-related flammability\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5.21 Stark model of gullying\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "chapter-5/5.6.html",
+    "href": "chapter-5/5.6.html",
+    "title": "5.6 Invasion percolation drainage basin model",
+    "section": "",
+    "text": "This model is an implementation of the drainage model presented in\nStark CP. 1991. An invasion percolation model of drainage network evolution. Nature 352 423–425."
+  },
+  {
+    "objectID": "chapter-5/5.12.html",
+    "href": "chapter-5/5.12.html",
+    "title": "5.12 Eden growth a linear invasion front",
+    "section": "",
+    "text": "This model draws on ideas discussed in\nEdwards SF and DR Wilkinson. 1982. The surface statistics of a granular aggregate. Proceedings of the Royal Society of London. Series A 381(1780) 17-31.\nand allows you to explore the rate of progress made by an Eden invasion process advancing along a linear ‘front’."
+  },
+  {
+    "objectID": "chapter-5/5.13.html",
+    "href": "chapter-5/5.13.html",
+    "title": "5.13 Eden epidemic process",
+    "section": "",
+    "text": "This model simulates an Eden epidemic process as described in\nAlexandrowicz Z. 1980. Critically branched chains and percolation clusters. Physics Letters A 80 284–286."
   },
   {
     "objectID": "chapter-5/5.11.html",
     "href": "chapter-5/5.11.html",
     "title": "5.11 Williams-Bjerknes Eden growth model for abnormal cells",
     "section": "",
-    "text": "This model is an implementation of the process described in\nWilliams T and Bjerknes R 1972 Stochastic model for abnormal clone spread through epithelial basal layer. Nature 236 19–21."
+    "text": "This model is an implementation of the process described in\nWilliams T and R Bjerknes. 1972. Stochastic model for abnormal clone spread through epithelial basal layer. Nature 236 19–21."
   },
   {
     "objectID": "chapter-5/5.8.html",
     "href": "chapter-5/5.8.html",
     "title": "5.8 Inverted Eden process",
     "section": "",
-    "text": "This model is an implementation of the simple inverse Eden process presented in\nSavakis AE and Maggelakis SA 1997 Models of shrinking clusters with applications to epidermal wound healing. Mathematical and Computer Modelling 25 1–6."
+    "text": "This model is an implementation of the simple inverse Eden process presented in\nSavakis AE and SA Maggelakis. 1997. Models of shrinking clusters with applications to epidermal wound healing. Mathematical and Computer Modelling 25 1–6."
+  },
+  {
+    "objectID": "chapter-5/5.10.html",
+    "href": "chapter-5/5.10.html",
+    "title": "5.10 Eden ‘tip’ model",
+    "section": "",
+    "text": "This model is an implementation of the Eden ‘tip’ growth process described in\nSawada Y, S Ohta, M Yamazaki and H Honjo. 1982. Self-similarity and a phase-transition-like behavior of a random growing structure governed by a nonequilibrium parameter. Physics Review A 26 3557-3563."
+  },
+  {
+    "objectID": "chapter-5/5.9.html",
+    "href": "chapter-5/5.9.html",
+    "title": "5.9 The Eden tree",
+    "section": "",
+    "text": "This model is an implementation of an Eden tree growth process as discussed in\nDhar D and R Ramaswamy. 1985. Classical diffusion on Eden trees. Physical Review Letters 54 1346–1349."
+  },
+  {
+    "objectID": "chapter-5/5.14.html",
+    "href": "chapter-5/5.14.html",
+    "title": "5.14 Benguigui’s Eden process based model of urban growth",
+    "section": "",
+    "text": "This model simulates a version of Benguigui’s highly abstract model of urban growth, as discussed in\nBenguigui L. 1995. A new aggregation model. Application to town growth. Physica A: Statistical Mechanics and its Applications 219 13–26.\nBenguigui L. 1998. Aggregation models for town growth. Philosophical Magazine Part B 77 1269–75."
+  },
+  {
+    "objectID": "chapter-5/5.15.html",
+    "href": "chapter-5/5.15.html",
+    "title": "5.15 Eden spread on a linear front with long-distance dispersal (LDD)",
+    "section": "",
+    "text": "This model shows how Eden spread along a front is dramatically altered by the occurrence of even relatively rare long-distance jumps. The behaviour of this model should be compared with that of the same model without such jumps.\nThis model requires the R extension."
+  },
+  {
+    "objectID": "chapter-5/5.17.html",
+    "href": "chapter-5/5.17.html",
+    "title": "5.17 Neutral landscape generation by percolation processes",
+    "section": "",
+    "text": "This model implements a number of different percolation-based neutral landscapes."
   },
   {
     "objectID": "chapter-5/5.16.html",
     "href": "chapter-5/5.16.html",
     "title": "5.16 Diffusion limited aggregation (DLA)",
     "section": "",
-    "text": "This is an implementation of an on-lattice (i.e. grid-based) diffusion-limited aggregation process. See\nWitten TA and Sander LM 1981 Diffusion-limited aggregation, a kinetic critical phenomenon. Physical Review Letters 47 1400–1403."
-  },
-  {
-    "objectID": "chapter-1/1.3.html",
-    "href": "chapter-1/1.3.html",
-    "title": "1.3 Multiplicative Galton board",
-    "section": "",
-    "text": "This model simulates a multiplicative Galton board, which demonstrates the central limit theorem of statistics as it relates to a multiplicative process."
-  },
-  {
-    "objectID": "chapter-1/index.html",
-    "href": "chapter-1/index.html",
-    "title": "Spatial simulations: what? why? how?",
-    "section": "",
-    "text": "In this chapter we discuss the concept of a model, why simulation models in particular have become such an important scientific tool in recent decades, and finally the particular focus of the book on spatial simulation models. Along the way we consider the game of life cellular automaton as an example of behavioural complexity (and also as a very simple dynamic model), and also simple statistical models to illustrate the strengths and weaknesses of simple abstract models.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.1 Conway’s game of life\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.2 Additive Galton board\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3 Multiplicative Galton board\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "chapter-1/1.2.html",
-    "href": "chapter-1/1.2.html",
-    "title": "1.2 Additive Galton board",
-    "section": "",
-    "text": "This model simulates a Galton board, which demonstrates both the central limit theorem of statistics as it relates to additive processes, and also the expected displacement associated with a 1-D random walk."
-  },
-  {
-    "objectID": "chapter-1/1.1.html",
-    "href": "chapter-1/1.1.html",
-    "title": "1.1 Conway’s game of life",
-    "section": "",
-    "text": "A simple implementation of John Conway’s game of life cellular automaton.\nSee also the totalistic automata model, which allows a wide range of the cellular automata models of which life is just an example to be explored. Also of interest may be the effect on the life CA of changing how we represent time."
-  },
-  {
-    "objectID": "index.html#exploring-pattern-process",
-    "href": "index.html#exploring-pattern-process",
-    "title": "Spatial Simulation",
-    "section": "",
-    "text": "Across the sciences, simulation models are an important way to study systems inaccessible to experimental and observational methods, and also an essential complement to those approaches. The research literature is teeming with abstract simulation models whose presentation is mathematically demanding and requires deep knowledge of quantitative and computational methods. Furthermore, simulation models designed to represent specific systems and phenomena are often complicated, and, as a result, difficult to reconstruct from their descriptions in the literature. Spatial Simulation: Exploring Pattern & Process provides a practical and accessible account of dynamic spatial modelling, equipping readers with a sound conceptual foundation in the subject, and an introduction to the wide-ranging literature.\n\n\n\nThe book is organised around the idea that a small number of spatial processes underlie the wide variety of dynamic spatial models. Its central focus on three ‘building-blocks’ of dynamic spatial models — forces of attraction and segregation, individual mobile entities, and processes of spread — guides the reader to an understanding of the basis of many of the complicated models in the research literature. The three building-block models are presented in their simplest form and are progressively elaborated and related to real world process that can be represented using them. Introductory chapters cover essential background topics, particularly the relationships between pattern, process and spatiotemporal scale. Additional chapters consider how time and space can be represented in more complicated models, and methods for the analysis and evaluation of models. Finally, the three building-block models are woven together in a more elaborate example to show how a complicated model can be assembled from relatively simple components."
+    "text": "This is an implementation of an on-lattice (i.e. grid-based) diffusion-limited aggregation process. See\nWitten TA and LM Sander. 1981. Diffusion-limited aggregation, a kinetic critical phenomenon. Physical Review Letters 47 1400–1403."
   }
 ]

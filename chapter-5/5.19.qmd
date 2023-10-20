@@ -5,4 +5,4 @@ format: html
 
 [![](5.19-dsFFM.png)](5.19-dsFFM.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of a simple forest fire model with a primary focus on the size distribution of the fires that are produced. It is based on the model described in
 
-Bak P and Chen K 1990 A forest-fire model and some thoughts on turbulence. _Physics Letters A_ **147** 297–300.
+Bak P and K Chen. 1990 A forest-fire model and some thoughts on turbulence. _Physics Letters A_ **147** 297–300.

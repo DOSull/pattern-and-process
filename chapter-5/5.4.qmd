@@ -5,4 +5,4 @@ format: html
 
 [![](5.4-percolationBackBone.png)](5.4-percolationBackBone.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model demonstrates the identification of the backbone of a spanning cluster in site percolation. See
 
-Herrmann HJ, Hong DC and Stanley HE 1984 Backbone and elastic backbone of percolation clusters obtained by the new method of ‘burning’. _Journal of Physics A: Mathematical and General_ **17** L261–L266.
+Herrmann HJ, DC Hong DC and HE Stanley. 1984. Backbone and elastic backbone of percolation clusters obtained by the new method of ‘burning’. _Journal of Physics A: Mathematical and General_ **17** L261–L266.

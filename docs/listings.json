@@ -6,6 +6,49 @@
     ]
   },
   {
+    "listing": "/chapter-9/index.html",
+    "items": [
+      "/chapter-9/9.1.html"
+    ]
+  },
+  {
+    "listing": "/chapter-8/index.html",
+    "items": [
+      "/chapter-8/8.1.html"
+    ]
+  },
+  {
+    "listing": "/chapter-6/index.html",
+    "items": [
+      "/chapter-6/6.1.html",
+      "/chapter-6/6.2.html",
+      "/chapter-6/6.3.html",
+      "/chapter-6/6.4.html",
+      "/chapter-6/6.5.html",
+      "/chapter-6/6.6.html"
+    ]
+  },
+  {
+    "listing": "/chapter-1/index.html",
+    "items": [
+      "/chapter-1/1.1.html",
+      "/chapter-1/1.2.html",
+      "/chapter-1/1.3.html"
+    ]
+  },
+  {
+    "listing": "/chapter-4/index.html",
+    "items": [
+      "/chapter-4/4.1.html",
+      "/chapter-4/4.2.html",
+      "/chapter-4/4.3.html",
+      "/chapter-4/4.4.html",
+      "/chapter-4/4.5.html",
+      "/chapter-4/4.6.html",
+      "/chapter-4/4.7.html"
+    ]
+  },
+  {
     "listing": "/chapter-3/index.html",
     "items": [
       "/chapter-3/3.1.html",
@@ -39,41 +82,6 @@
     ]
   },
   {
-    "listing": "/chapter-8/index.html",
-    "items": [
-      "/chapter-8/8.1.html"
-    ]
-  },
-  {
-    "listing": "/chapter-4/index.html",
-    "items": [
-      "/chapter-4/4.1.html",
-      "/chapter-4/4.2.html",
-      "/chapter-4/4.3.html",
-      "/chapter-4/4.4.html",
-      "/chapter-4/4.5.html",
-      "/chapter-4/4.6.html",
-      "/chapter-4/4.7.html"
-    ]
-  },
-  {
-    "listing": "/chapter-9/index.html",
-    "items": [
-      "/chapter-9/9.1.html"
-    ]
-  },
-  {
-    "listing": "/chapter-6/index.html",
-    "items": [
-      "/chapter-6/6.1.html",
-      "/chapter-6/6.2.html",
-      "/chapter-6/6.3.html",
-      "/chapter-6/6.4.html",
-      "/chapter-6/6.5.html",
-      "/chapter-6/6.6.html"
-    ]
-  },
-  {
     "listing": "/chapter-5/index.html",
     "items": [
       "/chapter-5/5.1.html",
@@ -97,14 +105,6 @@
       "/chapter-5/5.19.html",
       "/chapter-5/5.20.html",
       "/chapter-5/5.21.html"
-    ]
-  },
-  {
-    "listing": "/chapter-1/index.html",
-    "items": [
-      "/chapter-1/1.1.html",
-      "/chapter-1/1.2.html",
-      "/chapter-1/1.3.html"
     ]
   }
 ]

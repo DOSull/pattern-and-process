@@ -7,6 +7,6 @@ format: html
 
 This model draws on ideas in
 
-Kitzberger T, Araoz E, Gowda JN, Mermoz M and Morales J 2012 Decreases in fire spread probability with forest age promotes alternative community states, reduced resilience to climate variability and large fire regime shifts. _Ecosystems_ **15** 97-112.
+Kitzberger T, E Araoz, JN Gowda, M Mermoz and J Morales. 2012. Decreases in fire spread probability with forest age promotes alternative community states, reduced resilience to climate variability and large fire regime shifts. _Ecosystems_ **15** 97-112.
 
-Peterson GD 2002 Contagious disturbance, ecological memory, and the emergence of landscape pattern. _Ecosystems_ **5** 329-338.
+Peterson GD. 2002. Contagious disturbance, ecological memory, and the emergence of landscape pattern. _Ecosystems_ **5** 329-338.

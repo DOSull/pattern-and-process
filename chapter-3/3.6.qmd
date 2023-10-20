@@ -5,4 +5,4 @@ format: html
 
 [![](3.6-simple-grass-brush-trees.png)](3.6-simple-grass-brush-trees.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of the simple grass – bush – trees model of
 
-Durrett R and Swindle G 1991 Are there bushes in a forest? _Stochastic Processes and their Applications_ **37** 19–31.
+Durrett R and G Swindle. 1991. Are there bushes in a forest? _Stochastic Processes and their Applications_ **37** 19–31.

@@ -5,4 +5,4 @@ format: html
 
 [![](3.4-BasicContactProcess2D.png)](3.4-BasicContactProcess2D.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of a basic contact process in two dimensions. The contact process is one of the simplest possible interacting particle systems. It is discussed in some detail in
 
-Durrett R and Levin SA 1994 Stochastic spatial models: a user’s guide to ecological applications. _Philosophical Transactions of the Royal Society of London. Series B_ **343**, 329-350.
+Durrett R and SA Levin. 1994. Stochastic spatial models: a user’s guide to ecological applications. _Philosophical Transactions of the Royal Society of London. Series B_ **343**, 329-350.

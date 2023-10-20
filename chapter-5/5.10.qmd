@@ -5,4 +5,4 @@ format: html
 
 [![](5.10-edenTip.png)](5.10-edenTip.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of the Eden ‘tip’ growth process described in
 
-Sawada Y, Ohta S, Yamazaki M and Honjo H 1982 Self-similarity and a phase-transition-like behavior of a random growing structure governed by a nonequilibrium parameter. _Physics Review A_ **26** 3557-3563.
+Sawada Y, S Ohta, M Yamazaki and H Honjo. 1982. Self-similarity and a phase-transition-like behavior of a random growing structure governed by a nonequilibrium parameter. _Physics Review A_ **26** 3557-3563.

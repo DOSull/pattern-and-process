@@ -5,4 +5,4 @@ format: html
 
 [![](5.13-edenEpidemic.png)](5.13-edenEpidemic.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model simulates an Eden epidemic process as described in
 
-Alexandrowicz Z 1980 Critically branched chains and percolation clusters. _Physics Letters A_ **80** 284–286.
+Alexandrowicz Z. 1980. Critically branched chains and percolation clusters. _Physics Letters A_ **80** 284–286.

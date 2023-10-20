@@ -1,6 +1,6 @@
 ---
 title: "About the authors"
 ---
-[David O’Sullivan](https://people.wgtn.ac.nz/david.osullivan) is Professor of Geography and Geospatial Science at Te Herenga Waka - Victoria University of Wellington.
+[David O’Sullivan](https://people.wgtn.ac.nz/david.osullivan) is (just about still) Professor of Geography and Geospatial Science at Te Herenga Waka - Victoria University of Wellington.
 
 [George Perry](https://profiles.auckland.ac.nz/george-perry) is Professor of Environmental Science at the University of Auckland.

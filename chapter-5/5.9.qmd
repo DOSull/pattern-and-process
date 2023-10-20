@@ -5,4 +5,4 @@ format: html
 
 [![](5.9-edenTree.png)](5.9-edenTree.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model is an implementation of an Eden tree growth process as discussed in
 
-Dhar D and Ramaswamy R 1985 Classical diffusion on Eden trees. _Physical Review Letters_ **54** 1346–1349.
+Dhar D and R Ramaswamy. 1985. Classical diffusion on Eden trees. _Physical Review Letters_ **54** 1346–1349.

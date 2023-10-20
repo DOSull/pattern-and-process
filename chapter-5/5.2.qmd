@@ -5,4 +5,4 @@ format: html
 
 [![](5.2-antLabyrinth.png)](5.2-antLabyrinth.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This is an implementation of the classic ant in the labyrinth problem, discussed in
 
-de Gennes PG 1976 La percolation: un concept unificateur. _La Recerche_ **7** 72–82.
+de Gennes PG. 1976. La percolation: un concept unificateur. _La Recerche_ **7** 72–82.

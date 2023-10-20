@@ -5,7 +5,7 @@ format: html
 
 [![](5.18-simmap.png)](5.18-simmap.nlogo){style="float:left; margin-right:10px; margin-bottom:5px;"} This model implements the SIMMAP process for generation of neutral landscapes as described in
 
-Saura S and Martinez-Milan J 2000 Landscape pattern simulation with a modified random clusters method. _Landscape Ecology_ **15** 661-677.
+Saura S and J Martinez-Milan. 2000. Landscape pattern simulation with a modified random clusters method. _Landscape Ecology_ **15** 661-677.
 
 This model also requires [this text file](5.18-classes.txt) to configure the relative proportions of each class of landscape that it will produce. This file should not be renamed, and should be placed in the same folder as the model file.
 
