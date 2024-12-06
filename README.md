@@ -1,3 +1,5 @@
+Visit the website [patternandprocess.org](https://patternandprocess.org)
+
 # About Spatial Simulation: Exploring Pattern and Process
 
 Across broad areas of the environmental and social sciences, simulation models are an important way to study systems inaccessible to scientific experimental and observational methods, and also an essential complement of those more conventional approaches.  The contemporary research literature is teeming with abstract simulation models whose presentation is mathematically demanding and requires a high level of knowledge of quantitative and computational methods and approaches.  Furthermore, simulation models designed to represent specific systems and phenomena are often complicated, and, as a result, difficult to reconstruct from their descriptions in the literature.  Spatial Simulation: Exploring Pattern and Process aims to provide a practical and accessible account of dynamic spatial modelling, while also equipping readers with a sound conceptual foundation in the subject, and a useful introduction to the wide-ranging literature.
