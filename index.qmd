@@ -29,4 +29,4 @@ This book encourages readers to develop intuition for the abstract types of mode
 _Spatial Simulation: Exploring Pattern & Process_ will be of interest to undergraduate and graduate students taking courses in environmental, social, ecological and geographical disciplines. 
 Researchers and professionals who require a non-specialist introduction will also find this book an invaluable guide to dynamic spatial simulation.
 
-The book is published by [Wiley](http://au.wiley.com/WileyCDA/WileyTitle/productCd-1119970792.html) and is available now!
+The book is published by [Wiley](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118527085) and is available now!
