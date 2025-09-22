@@ -5,10 +5,12 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.1-sitePercolation.png)](5.1-site-percolation.nlogox)
+[![](5.1-sitePercolation.png){style="padding-right:10px;"}](5.1-site-percolation.nlogox)
 :::
 
 ::: {.column width=65%}
 This model demonstrates site percolation and displays the largest and spanning clusters (if the latter exists).
+
+The mathematics of percolation is fundamental to all of the models discussed in this chapter, and can also inform understanding of many phenomenon in the real world such as fire spread, dispersal, and epidemic processes.
 :::
 ::::

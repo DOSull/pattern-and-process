@@ -5,10 +5,17 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.11-schelling-as-IPS.png)](3.11-schelling-as-ips.nlogox)
+[![](3.11-schelling-as-IPS.png){style="padding-right:10px;"}](3.11-schelling-as-ips.nlogox)
 :::
 
 ::: {.column width=65%}
 This model demonstrates how the Schelling model can be implemented as an interacting particle system _exclusion process_.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.11-schelling-as-ips.mp4 >}}

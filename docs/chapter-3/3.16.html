@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-2c128a76c5dbb243be50ea3089ffe19d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -305,11 +307,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column" style="width:35%;">
-<p><a href="3.16-ipd.nlogox"><img src="3.16-IPD.png" class="img-fluid"></a></p>
+<p><a href="3.16-ipd.nlogox"><img src="3.16-IPD.png" class="img-fluid" style="padding-right:10px;"></a></p>
 </div><div class="column" style="width:65%;">
 <p>This model demonstrates how different strategies in a two player game compete with one another in space, when players ‘evolve’ by changing their strategy to match successfully strategies either globally (the non-spatial case) or locally (the spatial case).</p>
 </div>
 </div>
+<div class=".clearfix">
+
+</div>
+<p>Typical behaviour of this model is seen in the video below.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="3.16-ipd.mp4"></video></div>
 
 
 
@@ -741,6 +748,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 

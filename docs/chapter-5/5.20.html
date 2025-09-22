@@ -41,6 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-2c128a76c5dbb243be50ea3089ffe19d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -336,14 +338,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column" style="width:35%;">
-<p><a href="5.20-ffm-cont-lsp.nlogox"><img src="5.20-FFM-ContLsp.png" class="img-fluid"></a></p>
+<p><a href="5.20-ffm-cont-lsp.nlogox"><img src="5.20-FFM-ContLsp.png" class="img-fluid" style="padding-right:10px;"></a></p>
 </div><div class="column" style="width:65%;">
 <p>This model is a forest fire model where the flammability of sites changes with the time elapsed since the site last burned. The focus of this model is on the relationship between the ‘flammability function’ and the resulting distribution of fire sizes, and on how ‘memory’ in the landscapes contributes to the overall patterns that result.</p>
 <p>This model draws on ideas in</p>
+</div>
+</div>
 <p>Kitzberger T, E Araoz, JN Gowda, M Mermoz and J Morales. 2012. Decreases in fire spread probability with forest age promotes alternative community states, reduced resilience to climate variability and large fire regime shifts. <em>Ecosystems</em> <strong>15</strong> 97-112.</p>
 <p>Peterson GD. 2002. Contagious disturbance, ecological memory, and the emergence of landscape pattern. <em>Ecosystems</em> <strong>5</strong> 329-338.</p>
-</div>
-</div>
+<p>Typical behaviour of this model is seen in the video below.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="5.20-ffm-cont-lsp.mp4"></video></div>
 
 
 
@@ -778,6 +782,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 

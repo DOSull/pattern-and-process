@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <model version="NetLogo 7.0.0" snapToGrid="false">
-  <code><![CDATA[breed [
+  <code><![CDATA[__includes[ "make-video.nls" ]
+
+breed [
   states state ;; use these to store model states and associated colours
 ]
 
@@ -155,7 +157,7 @@ end
       </pen>
     </plot>
     <button x="88" y="14" height="33" disableUntilTicks="false" forever="false" kind="Observer" width="64" sizeVersion="0">setup</button>
-    <slider x="9" step="1" y="98" max="16" display="initial-n-states" height="33" min="2" direction="Horizontal" default="12.0" variable="initial-n-states" width="143" sizeVersion="0"></slider>
+    <slider x="9" step="1" y="98" max="16" display="initial-n-states" height="33" min="2" direction="Horizontal" default="11.0" variable="initial-n-states" width="143" sizeVersion="0"></slider>
     <button x="22" y="51" height="33" disableUntilTicks="false" forever="false" kind="Observer" display="step" width="63" sizeVersion="0">go</button>
     <button x="88" y="51" height="33" disableUntilTicks="false" forever="true" kind="Observer" width="64" sizeVersion="0">go</button>
   </widgets>

@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.19-dsFFM.png)](5.19-ds-ffm.nlogox)
+[![](5.19-dsFFM.png){style="padding-right:10px;"}](5.19-ds-ffm.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,7 @@ This model is an implementation of a simple forest fire model with a primary foc
 Bak P and K Chen. 1990 A forest-fire model and some thoughts on turbulence. _Physics Letters A_ **147** 297–300.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.19-ds-ffm.mp4 >}}

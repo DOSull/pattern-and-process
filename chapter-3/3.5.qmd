@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.5-CompetingContactProcess2D.png)](3.5-competing-contact-process-2d.nlogox)
+[![](3.5-CompetingContactProcess2D.png){style="padding-right:10px;"}](3.5-competing-contact-process-2d.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,10 @@ This is an implementation of competing contact processes in two dimensions, incl
 Durrett R and SA Levin. 1994. Stochastic spatial models: a user’s guide to ecological applications. _Philosophical Transactions of the Royal Society of London. Series B_ **343**, 329-350.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.5-competing-contact-process-2d.mp4 >}}

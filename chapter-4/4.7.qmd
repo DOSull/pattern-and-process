@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](4.7-flocking.png)](4.7-flocking.nlogox)
+[![](4.7-flocking.png){style="padding-right:10px;"}](4.7-flocking.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -20,3 +20,10 @@ Vicsek T, A Czirók, E Ben-Jacob, I Cohen and O Sochet. 1995. Novel type of phas
 This model also includes various different implementations of the idea of ‘flock-mates’ which demonstrate the importance of basic spatial properties (in this case proximity or ‘neighbourhood’) in many spatial models.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 4.7-flocking.mp4 >}}

@@ -5,10 +5,14 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](6.5-voronoi-voter.png)](6.5-voronoi-voter.nlogox)
+[![](6.5-voronoi-voter.png){style="padding-right:10px;"}](6.5-voronoi-voter.nlogox)
 :::
 
 ::: {.column width=65%}
 This model demonstrates a voter model on a Voronoi tessellation. Again, the outcomes are not qualitatively different from those on a grid-based lattice.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 6.5-voronoi-voter.mp4 >}}

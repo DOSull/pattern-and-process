@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](2.7-double-cluster.png)](2.7-double-cluster-using-R.nlogox)
+[![](2.7-double-cluster.png){style="padding-right:10px;"}](2.7-double-cluster-using-R.nlogox)
 :::
 
 ::: {.column width=65%}

@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](6.2-majority-rule-under-different-update-models.png)](6.2-majority-rule-under-different-update-models.nlogox)
+[![](6.2-majority-rule-under-different-update-models.png){style="padding-right:10px;"}](6.2-majority-rule-under-different-update-models.nlogox)
 :::
 
 ::: {.column width=65%}

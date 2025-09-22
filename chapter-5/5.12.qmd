@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.12-edenSingleOnLine.png)](5.12-eden-single-on-line.nlogox)
+[![](5.12-edenSingleOnLine.png){style="padding-right:10px;"}](5.12-eden-single-on-line.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -16,3 +16,7 @@ Edwards SF and DR Wilkinson. 1982. The surface statistics of a granular aggregat
 and allows you to explore the rate of progress made by an Eden invasion process advancing along a linear ‘front’.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.12-eden-single-on-line.mp4 >}}

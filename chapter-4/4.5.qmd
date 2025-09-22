@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](4.5-monkeys-foraging.png)](4.5-monkeys-foraging.nlogox)
+[![](4.5-monkeys-foraging.png){style="padding-right:10px;"}](4.5-monkeys-foraging.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,10 @@ This model demonstrates how the distribution of resource availability in an envi
 Boyer D, G Ramos-Fernández, O Miramontes, JL Mateos, G Cocho, H Larralde, H Ramos and F Rojas. 2006. Scale-free foraging by primates emerges from their interaction with a complex environment. _Proceedings of the Royal Society. Series B_ **273** 1743-50.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 4.5-monkeys-foraging.mp4 >}}

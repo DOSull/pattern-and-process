@@ -5,10 +5,19 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.7-simpleRSP.png)](3.7-simple-rsp.nlogox)
+[![](3.7-simpleRSP.png){style="padding-right:10px;"}](3.7-simple-rsp.nlogox)
 :::
 
 ::: {.column width=65%}
 This model is an implementation of a rock – scissors – paper succession model.
+
+In this system, as in the game of rock-scissors-paper each of the three classes beats one other in a cycle. This leads to waves of succession across the space as each class 'flees' from the class that beats it and 'invades' the class that it beats.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.7-simple-rsp.mp4 >}}

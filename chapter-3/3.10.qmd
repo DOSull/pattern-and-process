@@ -5,11 +5,16 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.10-schelling.png)](3.10-schelling.nlogox)
+[![](3.10-schelling.png){style="padding-right:10px;"}](3.10-schelling.nlogox)
 :::
 
 ::: {.column width=65%}
 This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically.  The original papers on this model are:
+:::
+::::
+
+::: .clearfix
+:::
 
 Schelling TC. 1969. Models of segregation. _American Economic Review_ **59** 488–493.
 
@@ -22,5 +27,8 @@ It has more recently been argued that the model should be more properly referred
 Hegselmann R. 2017. [Thomas C. Schelling and James M. Sakoda: The intellectual, technical, and social history of a model](https://dx.doi.org/10.18564/jasss.3511). _Journal of Artificial Societies and Social Simulation_ **20**(3).
 
 Sakoda JM. 1971. The checkerboard model of social interaction. *Journal of Mathematical Sociology* **1**(1): 119–132.
-:::
-::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.10-schelling.mp4 >}}
+

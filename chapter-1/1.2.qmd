@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](1.2-galtonBoard-Additive.png)](1.2-galtonBoard-Additive.nlogox)
+[![](1.2-galtonBoard-Additive.png){style="padding-right:10px;"}](1.2-galtonBoard-Additive.nlogox)
 :::
 
 ::: {.column width=65%}

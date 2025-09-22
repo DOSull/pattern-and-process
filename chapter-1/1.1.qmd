@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](1.1-life.png)](1.1-life.nlogox)
+[![](1.1-life.png){style="padding-right:10px;"}](1.1-life.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,10 @@ A simple implementation of John Conway’s game of life cellular automaton.
 See also the [totalistic automata model](../chapter-3/3.3.qmd), which allows a wide range of the cellular automata models of which life is just an example to be explored. Also of interest may be the [effect on the life CA of changing how we represent time](../chapter-6/6.1.qmd).
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 1.1-life.mp4 >}}

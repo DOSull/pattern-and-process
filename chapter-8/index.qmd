@@ -1,6 +1,7 @@
 ---
 title: "Weaving it all together"
 listing:
-  type: grid 
+  type: grid
 ---
-Here we present a model that uses elements from all the ‘building-block’ models presented in Chapters 3, 4 and 5 to develop a more complicated and detailed model.
+
+In this chapter we present a model that combines elements from many of the models throughout the book.

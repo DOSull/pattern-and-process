@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](2.2-flugge-2012-spatial-bd.png)](2.2-flugge-2012-spatial-bd-noR.nlogox)
+[![](2.2-flugge-2012-spatial-bd.png){style="padding-right:10px;"}](2.2-flugge-2012-spatial-bd-noR.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -16,3 +16,10 @@ Flügge AJ, SC Olhede and D Murrell. 2012. The memory of spatial patterns – ch
 This model also requires [this NetLogo source file](distributions.nls) to run. You should place this file in the same folder as the model `.nlogo` file.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 2.2-flugge-2012-spatial-bd-noR.mp4 >}}

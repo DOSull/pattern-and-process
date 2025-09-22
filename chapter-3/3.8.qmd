@@ -5,10 +5,17 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.8-voter-model.png)](3.8-voter-model.nlogox)
+[![](3.8-voter-model.png){style="padding-right:10px;"}](3.8-voter-model.nlogox)
 :::
 
 ::: {.column width=65%}
-This model is an implementation of a simple voter model.
+This model is an implementation of a simple voter model. In the simple voter model there is no emergence of new classes. Eventually (where eventually might be a very long time) all but one class will disappear from the system.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.8-voter-model.mp4 >}}

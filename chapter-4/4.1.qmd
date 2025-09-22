@@ -5,10 +5,17 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](4.1-random-walks.png)](4.1-random-walks.nlogox)
+[![](4.1-random-walks.png){style="padding-right:10px;"}](4.1-random-walks.nlogox)
 :::
 
 ::: {.column width=65%}
 This model implements a number of variations on the random walk including the lattice-based walk, the simple random walk, walks with different distributions of step lengths, and correlated (direction) random walks.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 4.1-random-walks.mp4 >}}

@@ -5,10 +5,16 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.5-invasionPercolationWithTrapping.png)](5.5-invasion-percolation-with-trapping.nlogox)
+[![](5.5-invasionPercolationWithTrapping.png){style="padding-right:10px;"}](5.5-invasion-percolation-with-trapping.nlogox)
 :::
 
 ::: {.column width=65%}
 This model demonstrates invasion percolation in a landscape with randomly assigned resistance values.
+
+The NetLogo code in this model is some of the most complicated in the whole of the model zoo, particularly the variant that identifies 'traps', which are the regions shaded in grey (see the video) from which it is clear that the invasion cluster cannot 'escape' to the right-hand side of the model space.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.5-invasion-percolation-with-trapping.mp4 >}}

@@ -5,10 +5,17 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.1-local-average.png)](3.1-local-average.nlogox)
+[![](3.1-local-average.png){style="padding-right:10px;"}](3.1-local-average.nlogox)
 :::
 
 ::: {.column width=65%}
 A model illustrating the smoothing or diffusion effect produced by iterative local averaging.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.1-local-averaging.mp4 >}}

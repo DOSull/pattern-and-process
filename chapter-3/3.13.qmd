@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.13-iterated-voronoi.png)](3.13-iterated-voronoi.nlogox)
+[![](3.13-iterated-voronoi.png){style="padding-right:10px;"}](3.13-iterated-voronoi.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,11 @@ The Voronoi tessellation is an ‘all at once’ subdivision of a landscape base
 Du Q, V Faber and M Gunzburger. 1999. Centroidal Voronoi tessellations: applications and algorithms. _SIAM Review_ **41** 637–76.
 :::
 :::: 
+
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.13-iterated-voronoi.mp4 >}}

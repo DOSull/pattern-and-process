@@ -5,10 +5,14 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.3-firePercolation.png)](5.3-fire-percolation.nlogox)
+[![](5.3-firePercolation.png){style="padding-right:10px;"}](5.3-fire-percolation.nlogox)
 :::
 
 ::: {.column width=65%}
 A simple site-percolation based model of a forest-fire (or any other contagious process).
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.3-fire-percolation.mp4 >}}

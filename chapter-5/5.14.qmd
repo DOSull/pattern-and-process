@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.14-benguiguiP.png)](5.14-benguigui-p.nlogox)
+[![](5.14-benguiguiP.png){style="padding-right:10px;"}](5.14-benguigui-p.nlogox)
 :::
 
 ::: {.column width=65%}

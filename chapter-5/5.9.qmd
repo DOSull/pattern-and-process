@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.9-edenTree.png)](5.9-eden-tree.nlogox)
+[![](5.9-edenTree.png){style="padding-right:10px;"}](5.9-eden-tree.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,7 @@ This model is an implementation of an Eden tree growth process as discussed in
 Dhar D and R Ramaswamy. 1985. Classical diffusion on Eden trees. _Physical Review Letters_ **54** 1346–1349.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.9-eden-tree.mp4 >}}

@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.11-edenWilliamsBjerknes.png)](5.11-eden-williams-bjerknes.nlogox)
+[![](5.11-edenWilliamsBjerknes.png){style="padding-right:10px;"}](5.11-eden-williams-bjerknes.nlogox)
 :::
 
 ::: {.column width=65%}

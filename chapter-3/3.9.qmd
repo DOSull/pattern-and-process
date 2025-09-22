@@ -5,10 +5,19 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.9-voter-model-with-mutation.png)](3.9-voter-model-with-mutation.nlogox)
+[![](3.9-voter-model-with-mutation.png){style="padding-right:10px;"}](3.9-voter-model-with-mutation.nlogox)
 :::
 
 ::: {.column width=65%}
-This model implements a simple voter model with two non-local processes. One admits succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice.
+This model implements a simple voter model with two non-local processes. 
+
+One allows succession at a distance, while the other (mutation) allows the appearance of completely new states in the lattice. It is generally difficult for new states to establish themselves in the system, but over time as the original states diminish it becomes impossible to tell initial and new states apart.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.9-voter-model-with-mutation.mp4 >}}

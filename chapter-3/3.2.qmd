@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.2-vicsek-galaxy-formation.png)](3.2-vicsek-galaxy-formation.nlogox)
+[![](3.2-vicsek-galaxy-formation.png){style="padding-right:10px;"}](3.2-vicsek-galaxy-formation.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,10 @@ This is an implementation of the model described in
 Vicsek T and AS Szalay. 1987. Fractal distribution of galaxies modeled by a cellular-automaton-type stochastic process. _Phys. Rev. Lett._ **58**, 2818-21.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.2-vicsek-galaxy-formation.mp4 >}}

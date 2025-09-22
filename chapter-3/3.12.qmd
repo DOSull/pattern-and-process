@@ -5,10 +5,18 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.12-subdivision.png)](3.12-subdivision.nlogox)
+[![](3.12-subdivision.png){style="padding-right:10px;"}](3.12-subdivision.nlogox)
 :::
 
 ::: {.column width=65%}
 This model implements an interative subdivision process to construct a binary space partition which might be used to initialise neutral landscapes.
 :::
 ::::
+
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.12-subdivision.mp4 >}}

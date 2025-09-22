@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](4.6-foraging-with-regrowth.png)](4.6-foraging-with-regrowth.nlogox)
+[![](4.6-foraging-with-regrowth.png){style="padding-right:10px;"}](4.6-foraging-with-regrowth.nlogox)
 :::
 
 ::: {.column width=65%}

@@ -41,6 +41,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-2c128a76c5dbb243be50ea3089ffe19d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -306,17 +308,22 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column" style="width:35%;">
-<p><a href="3.10-schelling.nlogox"><img src="3.10-schelling.png" class="img-fluid"></a></p>
+<p><a href="3.10-schelling.nlogox"><img src="3.10-schelling.png" class="img-fluid" style="padding-right:10px;"></a></p>
 </div><div class="column" style="width:65%;">
 <p>This model is one possible implementation of Thomas Schelling’s simple model of residential segregation. This implementation shows how changing the criterion for how a household decides that a prospective new location is acceptable or not can change the overall outcome quite dramatically. The original papers on this model are:</p>
+</div>
+</div>
+<div class=".clearfix">
+
+</div>
 <p>Schelling TC. 1969. Models of segregation. <em>American Economic Review</em> <strong>59</strong> 488–493.</p>
 <p>Schelling TC. 1971. Dynamic models of segregation. <em>Journal of Mathematical Sociology</em> <strong>1</strong> 143–186.</p>
 <p>Schelling TC. 1978. <em>Micromotives and Macrobehavior</em>. Norton, New York.</p>
 <p>It has more recently been argued that the model should be more properly referred to as the Sakoda-Schelling model. See:</p>
 <p>Hegselmann R. 2017. <a href="https://dx.doi.org/10.18564/jasss.3511">Thomas C. Schelling and James M. Sakoda: The intellectual, technical, and social history of a model</a>. <em>Journal of Artificial Societies and Social Simulation</em> <strong>20</strong>(3).</p>
 <p>Sakoda JM. 1971. The checkerboard model of social interaction. <em>Journal of Mathematical Sociology</em> <strong>1</strong>(1): 119–132.</p>
-</div>
-</div>
+<p>Typical behaviour of this model is seen in the video below.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="3.10-schelling.mp4"></video></div>
 
 
 
@@ -751,6 +758,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 

@@ -40,6 +40,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../site_libs/bootstrap/bootstrap-2c128a76c5dbb243be50ea3089ffe19d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/videojs/video.min.js"></script>
+<link href="../site_libs/quarto-contrib/videojs/video-js.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -215,12 +217,16 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="columns">
 <div class="column" style="width:35%;">
-<p><a href="8.1-leGUME.zip"><img src="8.1-leGUME.png" class="img-fluid"></a></p>
+<p><a href="6.5-voronoi-voter.nlogox"><img src="8.1-leGUME.png" class="img-fluid" style="padding-right:10px;"></a></p>
 </div><div class="column" style="width:65%;">
-<p>This is the model presented in Chapter 8 of the book, which combines elements from many of the building-block models discussed in earlier chapters.</p>
-<p>Details of the model are in Chapter 8 and additional information not included in the Chapter can be <a href="model_details.pdf">found here</a>.</p>
+<p>Here we present a model that uses elements from all the ‘building-block’ models presented in Chapters 3, 4 and 5 to develop a more complicated and detailed model. The island coastline is formed by <a href="../chapter-5/5.5.html">invasion percolation</a>, resources are distributed according to <a href="../chapter-3/3.1.html">local averaging</a> and <a href="../chapter-5/5.18.html">cluster formation</a>, hunter-gatherers move using variations on <a href="../chapter-4/4.1.html">random walk</a> and <a href="../chapter-4/4.3.html">foraging</a>, and so on.</p>
+<p>A detailed description of the model is available <a href="model_details.pdf">here</a>.</p>
 </div>
 </div>
+<p>In later work, we published detailed results from this model as</p>
+<p>Perry GLW and D O’Sullivan. 2018. <a href="https://dx.doi.org/10.1007/s10816-017-9355-x">Identifying narrative descriptions in agent-based models representing past human-environment interactions</a>. <em>Journal of Archaeological Method and Theory</em>, <strong>25</strong>(3) 795-813.</p>
+<p>Typical behaviour of this model is seen in the video below.</p>
+<div class="quarto-video"><video id="video_shortcode_videojs_video1" class="video-js vjs-default-skin vjs-fluid" controls="" preload="auto" data-setup="{}" title=""><source src="8.1-leGUME_v1.6.mp4"></video></div>
 
 
 
@@ -652,6 +658,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>videojs(video_shortcode_videojs_video1);</script>
 
 
 

@@ -5,10 +5,17 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.3-totalistic_automata.png)](3.3-totalistic_automata.nlogox)
+[![](3.3-totalistic_automata.png){style="padding-right:10px;"}](3.3-totalistic_automata.nlogox)
 :::
 
 ::: {.column width=65%}
-This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states.
+This model allows you to explore the behaviour of a wide variety of possible totalistic automata, i.e., cellular automata whose rules are based only on the total number of cells in each neighbourhood in each of the two allowed states. The [Life CA](../chapter-1/1.1.qmd) is the best known example in this class.
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below. I say typical, but really there is a such a range of behaviour it would be more accurate to describe this as a typical 'life-like' totalistic, but the patterns it produces are all its own.
+
+{{< video 3.3-totalistic-automata.mp4 >}}

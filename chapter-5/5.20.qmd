@@ -5,16 +5,20 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.20-FFM-ContLsp.png)](5.20-ffm-cont-lsp.nlogox)
+[![](5.20-FFM-ContLsp.png){style="padding-right:10px;"}](5.20-ffm-cont-lsp.nlogox)
 :::
 
 ::: {.column width=65%}
 This model is a forest fire model where the flammability of sites changes with the time elapsed since the site last burned. The focus of this model is on the relationship between the ‘flammability function’ and the resulting distribution of fire sizes, and on how ‘memory’ in the landscapes contributes to the overall patterns that result.
 
 This model draws on ideas in
+:::
+::::
 
 Kitzberger T, E Araoz, JN Gowda, M Mermoz and J Morales. 2012. Decreases in fire spread probability with forest age promotes alternative community states, reduced resilience to climate variability and large fire regime shifts. _Ecosystems_ **15** 97-112.
 
 Peterson GD. 2002. Contagious disturbance, ecological memory, and the emergence of landscape pattern. _Ecosystems_ **5** 329-338.
-:::
-::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.20-ffm-cont-lsp.mp4 >}}

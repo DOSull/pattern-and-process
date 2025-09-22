@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](2.5-inhibition.png)](2.5-inhibition-using-R.nlogox)
+[![](2.5-inhibition.png){style="padding-right:10px;"}](2.5-inhibition-using-R.nlogox)
 :::
 
 ::: {.column width=65%}

@@ -5,10 +5,17 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.16-IPD.png)](3.16-ipd.nlogox)
+[![](3.16-IPD.png){style="padding-right:10px;"}](3.16-ipd.nlogox)
 :::
 
 ::: {.column width=65%}
 This model demonstrates how different strategies in a two player game compete with one another in space, when players ‘evolve’ by changing their strategy to match successfully strategies either globally (the non-spatial case) or locally (the spatial case).
 :::
 ::::
+
+::: .clearfix
+:::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 3.16-ipd.mp4 >}}

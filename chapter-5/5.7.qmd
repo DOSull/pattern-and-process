@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.7-edenSimple.png)](5.7-eden-simple.nlogox)
+[![](5.7-edenSimple.png){style="padding-right:10px;"}](5.7-eden-simple.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,7 @@ This model is an implementation of the basic Eden growth process as originally p
 Eden M. 1961. A two-dimensional growth process, _4th Berkeley Symposium on Mathematical Statistics and Probability_, pp. 223–239, University of California Press, Berkeley, CA.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.7-eden-simple.mp4 >}}

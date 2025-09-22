@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.6-invasionPercolationStarkDrainageModel.png)](5.6-invasion-percolation-stark-drainage-model.nlogox)
+[![](5.6-invasionPercolationStarkDrainageModel.png){style="padding-right:10px;"}](5.6-invasion-percolation-stark-drainage-model.nlogox)
 :::
 
 ::: {.column width=65%}
@@ -14,3 +14,7 @@ This model is an implementation of the drainage model presented in
 Stark CP. 1991. An invasion percolation model of drainage network evolution. _Nature_ **352** 423–425.
 :::
 ::::
+
+Typical behaviour of this model is seen in the video below.
+
+{{< video 5.6-invasion-percolation-stark-drainage-model.mp4 >}}
