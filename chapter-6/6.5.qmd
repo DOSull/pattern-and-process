@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](6.5-voronoi-voter.png)](6.5-voronoi-voter.nlogo)
+[![](6.5-voronoi-voter.png)](6.5-voronoi-voter.nlogox)
 :::
 
 ::: {.column width=65%}

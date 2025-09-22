@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.6-invasionPercolationStarkDrainageModel.png)](5.6-invasionPercolationStarkDrainageModel.nlogo)
+[![](5.6-invasionPercolationStarkDrainageModel.png)](5.6-invasion-percolation-stark-drainage-model.nlogox)
 :::
 
 ::: {.column width=65%}

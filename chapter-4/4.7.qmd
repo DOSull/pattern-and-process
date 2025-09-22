@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](4.7-flocking.png)](4.7-flocking.nlogo)
+[![](4.7-flocking.png)](4.7-flocking.nlogox)
 :::
 
 ::: {.column width=65%}

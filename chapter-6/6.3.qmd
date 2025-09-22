@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](6.3-event-queue-simple.png)](6.3-event-queue-simple.nlogo)
+[![](6.3-event-queue-simple.png)](6.3-event-queue-simple.nlogox)
 :::
 
 ::: {.column width=65%}

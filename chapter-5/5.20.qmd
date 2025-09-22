@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.20-FFM-ContLsp.png)](5.20-FFM-ContLsp.nlogo)
+[![](5.20-FFM-ContLsp.png)](5.20-ffm-cont-lsp.nlogox)
 :::
 
 ::: {.column width=65%}

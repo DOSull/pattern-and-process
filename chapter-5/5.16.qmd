@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.16-onlattice-dla.png)](5.16-onlattice-dla.nlogo)
+[![](5.16-onlattice-dla.png)](5.16-on-lattice-dla.nlogox)
 :::
 
 ::: {.column width=65%}

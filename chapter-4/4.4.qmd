@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](4.4-manhattan-sausages.png)](4.4-manhattan-sausages.nlogo)
+[![](4.4-manhattan-sausages.png)](4.4-manhattan-sausages.nlogox)
 :::
 
 ::: {.column width=65%}

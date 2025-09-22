@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.5-invasionPercolationWithTrapping.png)](5.5-invasionPercolationWithTrapping.nlogo)
+[![](5.5-invasionPercolationWithTrapping.png)](5.5-invasion-percolation-with-trapping.nlogox)
 :::
 
 ::: {.column width=65%}

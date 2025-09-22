@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.2-vicsek-galaxy-formation.png)](3.2-vicsek-galaxy-formation.nlogo)
+[![](3.2-vicsek-galaxy-formation.png)](3.2-vicsek-galaxy-formation.nlogox)
 :::
 
 ::: {.column width=65%}

@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.5-CompetingContactProcess2D.png)](3.5-CompetingContactProcess2D.nlogo)
+[![](3.5-CompetingContactProcess2D.png)](3.5-competing-contact-process-2d.nlogox)
 :::
 
 ::: {.column width=65%}

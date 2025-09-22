@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.14-spots-and-stripes.png)](3.14-spots-and-stripes.nlogo)
+[![](3.14-spots-and-stripes.png)](3.14-spots-and-stripes.nlogox)
 :::
 
 ::: {.column width=65%}

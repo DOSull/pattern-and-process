@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](5.1-sitePercolation.png)](5.1-sitePercolation.nlogo)
+[![](5.1-sitePercolation.png)](5.1-site-percolation.nlogox)
 :::
 
 ::: {.column width=65%}

@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.15-Nowak-May-1992.png)](3.15-Nowak-May-1992.nlogo)
+[![](3.15-Nowak-May-1992.png)](3.15-nowak-may-1992.nlogox)
 :::
 
 ::: {.column width=65%}

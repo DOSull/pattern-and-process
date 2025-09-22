@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](3.1-local-average.png)](3.1-local-average.nlogo)
+[![](3.1-local-average.png)](3.1-local-average.nlogox)
 :::
 
 ::: {.column width=65%}

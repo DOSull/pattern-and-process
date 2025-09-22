@@ -5,7 +5,7 @@ format: html
 
 :::: {.columns}
 ::: {.column width=35%}
-[![](2.3-csr.png)](2.3-csr.nlogo)
+[![](2.3-csr.png)](2.3-csr.nlogox)
 :::
 
 ::: {.column width=65%}
